@@ -64,6 +64,6 @@ Binghui Wang, **Jinyuan Jia**, Le Zhang, and Neil Zhenqiang Gong. "Structure-bas
 ======
 
 
-**Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. ''Random Walk based Fake Account Detection in Online Social Networks". In *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2017.
+* **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. ''Random Walk based Fake Account Detection in Online Social Networks". In *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2017.
 
- **Jinyuan Jia**, Binghui Wang, Le Zhang, and Neil Zhenqiang Gong. ''AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields". In *International Conference on World Wide Web (WWW)*, 2017.
+* **Jinyuan Jia**, Binghui Wang, Le Zhang, and Neil Zhenqiang Gong. ''AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields". In *International Conference on World Wide Web (WWW)*, 2017.
