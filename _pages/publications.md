@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-**2020**
+2020
+======
 
 Zaixi Zhang, **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "Backdoor Attacks to Graph Neural Networks". *NeurIPS 2020 Workshop on Dataset Curation and Security*, 2020.
 
@@ -21,7 +22,8 @@ Minghong Fang\*, Xiaoyu Cao\*, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Local 
 **Jinyuan Jia** and Neil Zhenqiang Gong. "Defending against Machine Learning based Inference Attacks via Adversarial Examples: Opportunities and Challenges". *Adaptive Autonomous Secure Cyber Systems. Springer, Cham*, 2020.
 
 
-**2019**
+2019
+======
 
 **Jinyuan Jia**, Ahmed Salem, Michael Backes, Yang Zhang, and Neil Zhenqiang Gong. "MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples". In *ACM Conference on Computer and Communications Security (CCS)*, 2019. [<span style="color:red">code</span>](https://github.com/jjy1994/MemGuard)
 
@@ -32,12 +34,14 @@ Binghui Wang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Graph-based Security an
 
 Binghui Wang, **Jinyuan Jia**, Le Zhang, and Neil Zhenqiang Gong. "Structure-based Sybil Detection in Social Networks via Local Rule-based Propagation". *IEEE Transactions on Network Science and Engineering (TNSE)*, 6(3), 2019.
 
-**2018**
+2018
+======
 
 
 **Jinyuan Jia** and Neil Zhenqiang Gong. "AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning". In *USENIX Security Symposium*, 2018. [<span style="color:red">code</span>](https://github.com/jjy1994/AttriGuard)
 
-**2017**
+2017
+======
 
 
 **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. ''Random Walk based Fake Account Detection in Online Social Networks". In *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2017.
