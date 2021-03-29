@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 **2020**
+
 Zaixi Zhang, **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "Backdoor Attacks to Graph Neural Networks". *NeurIPS 2020 Workshop on Dataset Curation and Security*, 2020.
 
 Binghui Wang, Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "On Certifying Robustness against Backdoor Attacks via Randomized Smoothing". *CVPR 2020 Workshop on Adversarial Machine Learning in Computer Vision*, 2020. \
