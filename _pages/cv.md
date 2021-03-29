@@ -22,7 +22,7 @@ Work Experience
 ======
 * Research Intern, Microsoft, 05/2020 - 08/2020
 
-Professional Services
+Professional Service
 ======
 * Program Committee
   * Conference on Computer Vision and Pattern Recognition (CVPR), 2021
