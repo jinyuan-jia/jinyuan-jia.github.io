@@ -16,6 +16,8 @@ Education
 * MEng in Electrical and Computer Engineering, Iowa State University, 2016 - 2019.
   * Advisor: Dr. Neil Zhenqiang Gong
 * B.S. in Electrical Engineering, University of Science and Technology of China, 2012 - 2016
+
+
 Work experience
 ======
 * Summer 2020: Research Intern
