@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-2019
-====
+**2019**
+
 7. *Jinyuan Jia*, Ahmed Salem, Michael Backes, Yang Zhang, and Neil Zhenqiang Gong. "MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples". In *ACM Conference on Computer and Communications Security (CCS)*, 2019. [<span style="color:red">code</span>](https://github.com/jjy1994/MemGuard)
 
 6. **Jinyuan Jia** and Neil Zhenqiang Gong. "Calibrate: Frequency Estimation and Heavy Hitter Identification with Local Differential Privacy via Incorporating Prior Knowledge". In *IEEE International Conference on Computer Communications (INFOCOM)*, 2019. 
@@ -16,13 +16,13 @@ author_profile: true
 
 4. Binghui Wang, **Jinyuan Jia**, Le Zhang, and Neil Zhenqiang Gong. "Structure-based Sybil Detection in Social Networks via Local Rule-based Propagation". *IEEE Transactions on Network Science and Engineering (TNSE)*, 6(3), 2019.
 
-2018
-====
+**2018**
+
 
 3. **Jinyuan Jia** and Neil Zhenqiang Gong. "AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning". In *USENIX Security Symposium*, 2018. [<span style="color:red">code</span>](https://github.com/jjy1994/AttriGuard)
 
-2017
-====
+**2017**
+
 
 2. **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. ''Random Walk based Fake Account Detection in Online Social Networks". In *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2017.
 
