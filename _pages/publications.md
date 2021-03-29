@@ -5,6 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
+2021
+======
+
+Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Data Poisoning Attacks to Local Differential Privacy Protocols". In *USENIX Security Symposium*, 2021.
+
+Xinlei He, **Jinyuan Jia**, Michael Backes, Neil Zhenqiang Gong, and Yang Zhang. "Stealing Links from Graph Neural Networks". In *USENIX Security Symposium*, 2021.
+
+Hongbin Liu\*, **Jinyuan Jia\***, and Neil Zhenqiang Gong. "PointGuard: Provably Robust 3D Point Cloud Classification". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. \*Equal contribution
+
+Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary". In *ACM ASIA Conference on Computer and Communications Security (ASIACCS)*, 2021.
+
+**Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "Robust and Verifiable Information Embedding Attacks to Deep Neural Networks via Error-Correcting Codes". In *ACM ASIA Conference on Computer and Communications Security (ASIACCS)*, 2021.
+
+Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Provably Secure Federated Learning against Malicious Clients". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
+
+**Jinyuan Jia**, Xiaoyu Cao, and Neil Zhenqiang Gong. "Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
+
+Binghui Wang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
+
+
 2020
 ======
 
