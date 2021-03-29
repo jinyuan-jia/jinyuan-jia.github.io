@@ -38,3 +38,4 @@ Professional Service
   * USENIX Security Symposium (SEC), 2019
   * ACM Conference on Computer and Communications Security (CCS), 2018, 2019, 2020
   * International Conference on Database Systems for Advanced Applications (DASFAA), 2018, 2019, 2020
+  * ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2018, 2019
