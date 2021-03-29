@@ -11,7 +11,7 @@ author_profile: true
 
 6. **Jinyuan Jia** and Neil Zhenqiang Gong. "Calibrate: Frequency Estimation and Heavy Hitter Identification with Local Differential Privacy via Incorporating Prior Knowledge". In *IEEE International Conference on Computer Communications (INFOCOM)*, 2019. 
 
-5. Binghui Wang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Graph-based Security and Privacy Analytics via Collective Classification with Joint Weight Learning and Propagation". In *ISOC Network and Distributed System Security Symposium (NDSS)*, 2019. 
+5. Binghui Wang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Graph-based Security and Privacy Analytics via Collective Classification with Joint Weight Learning and Propagation". In *ISOC Network and Distributed System Security Symposium (NDSS)*, 2019. \
 <span style="color:red">Distinguished Paper Award Honorable Mention</span>
 
 4. Binghui Wang, **Jinyuan Jia**, Le Zhang, and Neil Zhenqiang Gong. "Structure-based Sybil Detection in Social Networks via Local Rule-based Propagation". *IEEE Transactions on Network Science and Engineering (TNSE)*, 6(3), 2019.
