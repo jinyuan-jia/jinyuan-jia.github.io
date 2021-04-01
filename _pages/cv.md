@@ -44,3 +44,12 @@ Professional Service
   * ACM Conference on Computer and Communications Security (CCS), 2018, 2019, 2020
   * International Conference on Database Systems for Advanced Applications (DASFAA), 2018, 2019, 2020
   * ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2018, 2019
+
+Awards
+======
+* DeepMind Best Extended Abstract, 2020
+* NortonLifeLock Graduate Fellowship Finalist
+* NDSS Distinguished Paper Award Honorable Mention, 2019
+* DSN Travel Grant, 2017
+* Second Prize of Hardware/Programming Design Contest, 2014
+* Outstanding Undergraduate Scholarship, 2013
