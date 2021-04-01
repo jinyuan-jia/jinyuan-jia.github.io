@@ -22,10 +22,6 @@ Professional Experience
 ======
 * Research Intern, Microsoft Research, 05/2020 - 08/2020
 
-Talk
-======
-* AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields, 26th International World Wide Web Conference, Perth, Australia, 04/2017
-
 
 Professional Service
 ======
@@ -53,3 +49,7 @@ Awards
 * DSN Travel Grant, 2017
 * Second Prize of Hardware/Programming Design Contest, 2014
 * Outstanding Undergraduate Scholarship, 2013
+
+Talk
+======
+* AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields, 26th International World Wide Web Conference, Perth, Australia, 04/2017
