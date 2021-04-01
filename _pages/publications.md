@@ -8,7 +8,7 @@ author_profile: true
 2021
 ======
 
-* Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Data Poisoning Attacks to Local Differential Privacy Protocols". In *USENIX Security Symposium*, 2021.
+* Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning Attacks to Local Differential Privacy Protocols](https://arxiv.org/pdf/1911.02046.pdf)". In *USENIX Security Symposium*, 2021.
 
 * Xinlei He, **Jinyuan Jia**, Michael Backes, Neil Zhenqiang Gong, and Yang Zhang. "Stealing Links from Graph Neural Networks". In *USENIX Security Symposium*, 2021.
 
