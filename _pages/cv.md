@@ -1,11 +1,4 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
+
 
 
 
@@ -18,9 +11,9 @@ Education
 * B.S. in Electrical Engineering, University of Science and Technology of China, 2012 - 2016
 
 
-Work Experience
+Professional Experience
 ======
-* Research Intern, Microsoft, 05/2020 - 08/2020
+* Research Intern, Microsoft Research, 05/2020 - 08/2020
 
 Talk
 ======
