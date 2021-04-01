@@ -24,7 +24,7 @@ Work Experience
 
 Talk
 ======
-
+AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields, 26th International World Wide Web Conference, Perth, Australia, 04/2017
 
 
 Professional Service
