@@ -8,8 +8,7 @@ redirect_from:
 
 
 
-Education
-======
+
 * Ph.D. in Electrical and Computer Engineering, Duke University, 2019 - 2022 (expected)
   * Advisor: Prof. Neil Zhenqiang Gong
 * MEng in Electrical and Computer Engineering, Iowa State University, 2016 - 2019.
