@@ -20,7 +20,7 @@ author_profile: true
 
 * Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Provably Secure Federated Learning against Malicious Clients](https://arxiv.org/pdf/2102.01854)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
 
-* **Jinyuan Jia**, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks](https://arxiv.org/pdf/2008.04495)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
+* **Jinyuan Jia**, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks](https://arxiv.org/pdf/2008.04495)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021. [<span style="color:red">code</span>](https://github.com/jjy1994/BaggingCertifyDataPoisoning)
 
 * Binghui Wang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks](https://arxiv.org/pdf/2012.13085)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
 
@@ -35,7 +35,7 @@ author_profile: true
 
 * **Jinyuan Jia\***, Binghui Wang\*, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Certified Robustness of Community Detection against Adversarial Structural Perturbation via Randomized Smoothing](https://arxiv.org/pdf/2002.03421)". In *The Web Conference (WWW)*, 2020. \*Equal contribution
 
-* **Jinyuan Jia**, Xiaoyu Cao, Binghui Wang, and Neil Zhenqiang Gong. "[Certified Robustness for Top-k Predictions against Adversarial Perturbations via Randomized Smoothing](https://arxiv.org/pdf/1912.09899)". In *International Conference on Learning Representations (ICLR)*, 2020. 
+* **Jinyuan Jia**, Xiaoyu Cao, Binghui Wang, and Neil Zhenqiang Gong. "[Certified Robustness for Top-k Predictions against Adversarial Perturbations via Randomized Smoothing](https://arxiv.org/pdf/1912.09899)". In *International Conference on Learning Representations (ICLR)*, 2020. [<span style="color:red">code</span>](https://github.com/jjy1994/Certify_Topk)
 
 * Minghong Fang\*, Xiaoyu Cao\*, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Local Model Poisoning Attacks to Byzantine-Robust Federated Learning](https://www.usenix.org/system/files/sec20summer_fang_prepub.pdf)". In *USENIX Security Symposium*, 2020. \*Equal contribution 
 
