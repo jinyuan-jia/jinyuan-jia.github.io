@@ -10,13 +10,13 @@ author_profile: true
 
 * Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning Attacks to Local Differential Privacy Protocols](https://arxiv.org/pdf/1911.02046.pdf)". In *USENIX Security Symposium*, 2021.
 
-* Xinlei He, **Jinyuan Jia**, Michael Backes, Neil Zhenqiang Gong, and Yang Zhang. "Stealing Links from Graph Neural Networks". In *USENIX Security Symposium*, 2021.
+* Xinlei He, **Jinyuan Jia**, Michael Backes, Neil Zhenqiang Gong, and Yang Zhang. "[Stealing Links from Graph Neural Networks](https://arxiv.org/pdf/2005.02131.pdf)". In *USENIX Security Symposium*, 2021.
 
-* Hongbin Liu\*, **Jinyuan Jia\***, and Neil Zhenqiang Gong. "PointGuard: Provably Robust 3D Point Cloud Classification". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. \*Equal contribution
+* Hongbin Liu\*, **Jinyuan Jia\***, and Neil Zhenqiang Gong. "[PointGuard: Provably Robust 3D Point Cloud Classification](https://arxiv.org/pdf/2103.03046.pdf)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. \*Equal contribution
 
-* Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary". In *ACM ASIA Conference on Computer and Communications Security (ASIACCS)*, 2021.
+* Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary](https://arxiv.org/pdf/1910.12903.pdf)". In *ACM ASIA Conference on Computer and Communications Security (ASIACCS)*, 2021.
 
-* **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "Robust and Verifiable Information Embedding Attacks to Deep Neural Networks via Error-Correcting Codes". In *ACM ASIA Conference on Computer and Communications Security (ASIACCS)*, 2021.
+* **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "[Robust and Verifiable Information Embedding Attacks to Deep Neural Networks via Error-Correcting Codes](https://arxiv.org/pdf/2010.13751.pdf)". In *ACM ASIA Conference on Computer and Communications Security (ASIACCS)*, 2021.
 
 * Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "Provably Secure Federated Learning against Malicious Clients". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
 
