@@ -35,6 +35,7 @@ Professional Service
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   * IEEE Transactions on Information Forensics and Security (TIFS)
   * IEEE Transactions on Dependable and Secure Computing (TDSC)
+  * Transactions on Emerging Topics in Computing (TETC)
 * External Reviewer
   * IEEE Symposium on Security and Privacy (IEEE S&P), 2020
   * ISOC Network and Distributed System Security Symposium (NDSS), 2020, 2021
