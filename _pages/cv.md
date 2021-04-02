@@ -44,9 +44,9 @@ Professional Service
   * Privacy Enhancing Technologies Symposium (PETS), 2021
   * International Conference on Database Systems for Advanced Applications (DASFAA), 2018, 2019, 2020
   * ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2018, 2019, 2020
-  * AAAI Conference On Artifical Intelligence, 2021
-  * International Conference on Machine Learning, 2020
-  * International Conference on Learning Representations, 2021
+  * AAAI Conference On Artifical Intelligence (AAAI), 2021
+  * International Conference on Machine Learning (ICML), 2020
+  * International Conference on Learning Representations (ICLR), 2021
 
 Awards
 ======
