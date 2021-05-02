@@ -7,12 +7,15 @@ author_profile: true
 
 2021
 ======
-
+* Hongbin Liu, Jinyuan Jia, and Neil Zhenqiang Gong. "[On the Intrinsic Differential Privacy of Bagging](https://arxiv.org/pdf/2008.09845.pdf)". In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021.
+* 
 * Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning Attacks to Local Differential Privacy Protocols](https://arxiv.org/pdf/1911.02046.pdf)". In *USENIX Security Symposium*, 2021.
 
 * Xinlei He, **Jinyuan Jia**, Michael Backes, Neil Zhenqiang Gong, and Yang Zhang. "[Stealing Links from Graph Neural Networks](https://arxiv.org/pdf/2005.02131.pdf)". In *USENIX Security Symposium*, 2021.
 
 * Hongbin Liu\*, **Jinyuan Jia\***, and Neil Zhenqiang Gong. "[PointGuard: Provably Robust 3D Point Cloud Classification](https://arxiv.org/pdf/2103.03046.pdf)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. \*Equal contribution
+
+* Zaixi Zhang\*, **Jinyuan Jia\***, Binghui Wang, and Neil Zhenqiang Gong. "[Backdoor Attacks to Graph Neural Networks]"(https://arxiv.org/pdf/2006.11165). In ACM Symposium on Access Control Models and Technologies (SACMAT), 2021. \*Equal contribution
 
 * Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary](https://arxiv.org/pdf/1910.12903.pdf)". In *ACM ASIA Conference on Computer and Communications Security (ASIACCS)*, 2021.
 
@@ -28,7 +31,7 @@ author_profile: true
 2020
 ======
 
-* Zaixi Zhang, **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "[Backdoor Attacks to Graph Neural Networks](https://arxiv.org/pdf/2006.11165)". *NeurIPS 2020 Workshop on Dataset Curation and Security*, 2020.
+* Zaixi Zhang, **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "[Backdoor Attacks to Graph Neural Networks](http://securedata.lol/camera_ready/13.pdf)". *NeurIPS 2020 Workshop on Dataset Curation and Security*, 2020.
 
 * Binghui Wang, Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[On Certifying Robustness against Backdoor Attacks via Randomized Smoothing](https://arxiv.org/pdf/2002.11750)". *CVPR 2020 Workshop on Adversarial Machine Learning in Computer Vision*, 2020. \
 <span style="color:red">DeepMind Best Extended Abstract Award</span>
