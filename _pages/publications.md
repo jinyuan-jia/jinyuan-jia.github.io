@@ -15,7 +15,7 @@ author_profile: true
 
 * Hongbin Liu\*, **Jinyuan Jia\***, and Neil Zhenqiang Gong. "[PointGuard: Provably Robust 3D Point Cloud Classification](https://arxiv.org/pdf/2103.03046.pdf)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. \*Equal contribution
 
-* Zaixi Zhang\*, **Jinyuan Jia\***, Binghui Wang, and Neil Zhenqiang Gong. "[Backdoor Attacks to Graph Neural Networks](https://arxiv.org/pdf/2006.11165)". In ACM Symposium on Access Control Models and Technologies (SACMAT), 2021. \*Equal contribution
+* Zaixi Zhang\*, **Jinyuan Jia\***, Binghui Wang, and Neil Zhenqiang Gong. "[Backdoor Attacks to Graph Neural Networks](https://arxiv.org/pdf/2006.11165)". In *ACM Symposium on Access Control Models and Technologies (SACMAT)*, 2021. \*Equal contribution
 
 * Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[IPGuard: Protecting Intellectual Property of Deep Neural Networks via Fingerprinting the Classification Boundary](https://arxiv.org/pdf/1910.12903.pdf)". In *ACM ASIA Conference on Computer and Communications Security (ASIACCS)*, 2021.
 
