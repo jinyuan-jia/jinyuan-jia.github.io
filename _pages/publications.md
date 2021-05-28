@@ -7,6 +7,8 @@ author_profile: true
 
 2021
 ======
+* Binghui Wang, **Jinyuan Jia**, Xiaoyu Cao, and Neil Zhenqiang Gong.  "[Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation](https://arxiv.org/pdf/2008.10715.pdf)". In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2021.
+
 * Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[On the Intrinsic Differential Privacy of Bagging](https://arxiv.org/pdf/2008.09845.pdf)". In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021.
 
 * Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning Attacks to Local Differential Privacy Protocols](https://arxiv.org/pdf/1911.02046.pdf)". In *USENIX Security Symposium*, 2021.
