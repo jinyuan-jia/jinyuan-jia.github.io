@@ -51,7 +51,7 @@ Professional Service
 Awards
 ======
 * DeepMind Best Extended Abstract, 2020
-* NortonLifeLock Graduate Fellowship Finalist
+* NortonLifeLock Graduate Fellowship Finalist, 2020
 * NDSS Distinguished Paper Award Honorable Mention, 2019
 * DSN Travel Grant, 2017
 * Second Prize of Hardware/Programming Design Contest, 2014
