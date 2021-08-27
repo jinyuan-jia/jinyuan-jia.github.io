@@ -7,7 +7,7 @@ author_profile: true
 
 2022
 =====
-* **Jinyuan Jia\***, Yupei Liu\*, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/jjy1994/BadEncoder)
+* **Jinyuan Jia\***, Yupei Liu\*, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/jjy1994/BadEncoder)
 
 2021
 ======
