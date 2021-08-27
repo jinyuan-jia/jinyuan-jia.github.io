@@ -5,15 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+2022
+=====
+* **Jinyuan Jia\***, **Yupei Liu\***, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/jjy1994/BadEncoder)
+
 2021
 ======
+* **Hongbin Liu\***, **Jinyuan Jia\***, Wenjie Qu, and Neil Zhenqiang Gong.  "[EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning](https://arxiv.org/pdf/2108.11023.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2021. *Equal contribution
+
 * Binghui Wang, **Jinyuan Jia**, Xiaoyu Cao, and Neil Zhenqiang Gong.  "[Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation](https://arxiv.org/pdf/2008.10715.pdf)". In *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2021.
 
 * Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[On the Intrinsic Differential Privacy of Bagging](https://arxiv.org/pdf/2008.09845.pdf)". In *International Joint Conference on Artificial Intelligence (IJCAI)*, 2021.
 
 * Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning Attacks to Local Differential Privacy Protocols](https://arxiv.org/pdf/1911.02046.pdf)". In *USENIX Security Symposium*, 2021.
 
-* Xinlei He, **Jinyuan Jia**, Michael Backes, Neil Zhenqiang Gong, and Yang Zhang. "[Stealing Links from Graph Neural Networks](https://arxiv.org/pdf/2005.02131.pdf)". In *USENIX Security Symposium*, 2021.
+* Xinlei He, **Jinyuan Jia**, Michael Backes, Neil Zhenqiang Gong, and Yang Zhang. "[Stealing Links from Graph Neural Networks](https://arxiv.org/pdf/2005.02131.pdf)". In *USENIX Security Symposium*, 2021. [<span style="color:red">code</span>](https://github.com/xinleihe/link_stealing_attack)
 
 * Hongbin Liu\*, **Jinyuan Jia\***, and Neil Zhenqiang Gong. "[PointGuard: Provably Robust 3D Point Cloud Classification](https://arxiv.org/pdf/2103.03046.pdf)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2021. \*Equal contribution
 
