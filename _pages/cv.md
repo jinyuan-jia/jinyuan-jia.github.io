@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Electrical and Computer Engineering, Duke University, 2019 - 2022 (expected)
   * Advisor: Prof. Neil Zhenqiang Gong
-* MEng in Electrical and Computer Engineering, Iowa State University, 2016 - 2019.
+* M.Eng. in Computer Engineering, Iowa State University, 2016 - 2019.
   * Advisor: Prof. Neil Zhenqiang Gong
 * B.S. in Electrical Engineering, University of Science and Technology of China, 2012 - 2016
 
@@ -26,11 +26,12 @@ Professional Experience
 Professional Service
 ======
 * Program Committee
+  * AAAI Conference On Artifical Intelligence (AAAI), 2022
+  * Conference on Computer Vision and Pattern Recognition (CVPR), 2021, 2022
   * International Conference on Information and Communications Security (ICICS), 2021
   * Distributed and Private Machine Learning (DPML, ICLR Worshop), 2021
-  * Conference on Computer Vision and Pattern Recognition (CVPR), 2021
   * ACSAC Artifact Evaluations, 2020
-  * NeurIPS Workshop on Dataset Curation and Security
+  * NeurIPS Workshop on Dataset Curation and Security, 2020
 * Journal Reviewer
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   * IEEE Transactions on Information Forensics and Security (TIFS)
@@ -53,10 +54,4 @@ Awards
 * DeepMind Best Extended Abstract, 2020
 * NortonLifeLock Graduate Fellowship Finalist, 2020
 * NDSS Distinguished Paper Award Honorable Mention, 2019
-* DSN Travel Grant, 2017
-* Second Prize of Hardware/Programming Design Contest, 2014
-* Outstanding Undergraduate Scholarship, 2013
-
-Talk
-======
-* AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields, 26th International World Wide Web Conference, Perth, Australia, 04/2017
+* IBM Fellowship, 2016-2017
