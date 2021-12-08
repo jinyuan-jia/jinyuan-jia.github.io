@@ -11,6 +11,9 @@ author_profile: true
 
 * **Jinyuan Jia\***, Yupei Liu\*, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/jjy1994/BadEncoder)
 
+* **Jinyuan Jia**, Yupei Liu, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2012.03765.pdf)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
+
+
 2021
 ======
 * Hongbin Liu\*, **Jinyuan Jia\***, Wenjie Qu, and Neil Zhenqiang Gong.  "[EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning](https://arxiv.org/pdf/2108.11023.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2021. *Equal contribution
