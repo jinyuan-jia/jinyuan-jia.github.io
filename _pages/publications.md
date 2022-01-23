@@ -10,6 +10,7 @@ author_profile: true
 * Yongji Wu, Xiaoyu Cao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Poisoning Attacks to Local Differential Privacy Protocols for Key-Value Data](https://arxiv.org/pdf/2111.11534.pdf)". In *USENIX Security Symposium*, 2022.
 
 * **Jinyuan Jia\***, Yupei Liu\*, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/jjy1994/BadEncoder)
+* **Jinyuan Jia**, Binghui Wang, Xiaoyu Cao, Hongbin Liu, and Neil Zhenqiang Gong. "[Almost Tight L0-norm Certified Robustness of Top-k Predictions against Adversarial Perturbations](https://arxiv.org/abs/2011.07633)". In *International Conference on Learning Representations (ICLR)*, 2022.
 
 * **Jinyuan Jia**, Yupei Liu, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2012.03765.pdf)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
 
