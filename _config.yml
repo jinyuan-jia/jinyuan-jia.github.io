@@ -11,9 +11,9 @@ title                    : "Jinyuan Jia"
 title_separator          : "-"
 name                     : &name "Jinyuan Jia"
 description              : &description "Ph.D. student at Duke University"
-url                      : https://jjy1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jinyuan-jia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jjy1994/jjy1994.github.io"
+repository               : "jinyuan-jia/jinyuan-jia.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jjy1994"
+  github           : "jinyuan-jia"
   google_plus      :
   keybase          :
   instagram        :
