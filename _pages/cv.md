@@ -54,4 +54,3 @@ Awards
 * DeepMind Best Extended Abstract, 2020
 * NortonLifeLock Graduate Fellowship Finalist, 2020
 * NDSS Distinguished Paper Award Honorable Mention, 2019
-* IBM Fellowship, 2016-2017
