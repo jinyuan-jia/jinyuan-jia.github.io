@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to Jinyuan Jia's homepage!
 
-<span style="color:red">I will join the College of Information Sciences and Technology at The Pennsylvania State University as an assistant professor in July 2023!
+<span style="color:red">I will join the College of Information Sciences and Technology at the Pennsylvania State University as an assistant professor in July 2023!
 </span>
 
 I am a Postdoc at the University
