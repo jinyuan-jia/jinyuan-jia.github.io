@@ -5,5 +5,5 @@ permalink: /contact/
 author_profile: true
 ---
 Department of Computer Science, University of Illinois at Urbana-Champaign<br>
-Email: jinyuan [at] illinois.edu
+Email: jinyuan [at] psu.edu; jinyuan [at] illinois.edu
 
