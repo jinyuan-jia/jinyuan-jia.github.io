@@ -20,3 +20,9 @@ I am broadly interested in security, privacy, and machine learning with a recent
 
 <span style="color:red"> **Openings:** I am looking for PhD students and interns to join our research group.  Please drop me an email if you are interested in working with me! </span>
 {: .notice}
+
+
+
+## Contact
+Department of Computer Science, University of Illinois at Urbana-Champaign<br>
+Email: jinyuan [at] psu.edu; jinyuan [at] illinois.edu
