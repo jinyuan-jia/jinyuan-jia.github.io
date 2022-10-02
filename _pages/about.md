@@ -10,7 +10,7 @@ redirect_from:
 
 ### [About Me](#1) &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#2)
 
-## <span id="1">About Me</span>
+# <span id="1">About Me</span>
 
 Welcome to Jinyuan Jia's homepage!
 
@@ -25,10 +25,10 @@ I am broadly interested in security, privacy, and machine learning with a recent
 <span style="color:red"> **Openings:** I am looking for PhD students and interns to join our research group.  Please drop me an email if you are interested in working with me! </span>
 {: .notice}
 
-<span id="2">Publications</span>
+# <span id="2">Publications</span>
 
-2022
-=====
+### 2022
+
 * Yupei Liu, **Jinyuan Jia**, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/pdf/2201.05889.pdf)". In ACM Conference on Computer and Communications Security (CCS), 2022.
 
 * Zaixi Zhang, Xiaoyu Cao, **Jinayuan Jia**, and Neil Zhenqiang Gong. "[FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients](https://arxiv.org/pdf/2207.09209.pdf)". In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.
@@ -43,8 +43,8 @@ I am broadly interested in security, privacy, and machine learning with a recent
 * **Jinyuan Jia**, Yupei Liu, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2012.03765.pdf)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
 
 
-2021
-======
+### 2021
+
 * Hongbin Liu\*, **Jinyuan Jia\***, Wenjie Qu, and Neil Zhenqiang Gong.  "[EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning](https://arxiv.org/pdf/2108.11023.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2021. *Equal contribution
 
 * Binghui Wang, **Jinyuan Jia**, Xiaoyu Cao, and Neil Zhenqiang Gong.  "[Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation](https://arxiv.org/pdf/2008.10715.pdf)". In *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2021.
@@ -70,8 +70,8 @@ I am broadly interested in security, privacy, and machine learning with a recent
 * Binghui Wang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks](https://arxiv.org/pdf/2012.13085)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
 
 
-2020
-======
+### 2020
+
 
 * Zaixi Zhang, **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "[Backdoor Attacks to Graph Neural Networks](http://securedata.lol/camera_ready/13.pdf)". *NeurIPS 2020 Workshop on Dataset Curation and Security*, 2020.
 
@@ -87,8 +87,7 @@ I am broadly interested in security, privacy, and machine learning with a recent
 * **Jinyuan Jia** and Neil Zhenqiang Gong. "[Defending against Machine Learning based Inference Attacks via Adversarial Examples: Opportunities and Challenges](https://arxiv.org/pdf/1909.08526)". *Adaptive Autonomous Secure Cyber Systems. Springer, Cham*, 2020.
 
 
-2019
-======
+### 2019
 
 * **Jinyuan Jia**, Ahmed Salem, Michael Backes, Yang Zhang, and Neil Zhenqiang Gong. "[MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/pdf/1909.10594)". In *ACM Conference on Computer and Communications Security (CCS)*, 2019. [<span style="color:red">code</span>](https://github.com/jjy1994/MemGuard)
 
@@ -99,15 +98,11 @@ I am broadly interested in security, privacy, and machine learning with a recent
 
 * Binghui Wang, **Jinyuan Jia**, Le Zhang, and Neil Zhenqiang Gong. "[Structure-based Sybil Detection in Social Networks via Local Rule-based Propagation](https://arxiv.org/pdf/1803.04321)". *IEEE Transactions on Network Science and Engineering (TNSE)*, 6(3), 2019.
 
-2018
-======
-
+### 2018
 
 * **Jinyuan Jia** and Neil Zhenqiang Gong. "[AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-jia.pdf)". In *USENIX Security Symposium*, 2018. [<span style="color:red">code</span>](https://github.com/jjy1994/AttriGuard)
 
-2017
-======
-
+### 2017
 
 
 * **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. ''[Random Walk based Fake Account Detection in Online Social Networks](https://ieeexplore.ieee.org/abstract/document/8023129)". In *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2017.
@@ -115,6 +110,6 @@ I am broadly interested in security, privacy, and machine learning with a recent
 * **Jinyuan Jia**, Binghui Wang, Le Zhang, and Neil Zhenqiang Gong. ''[AttriInfer: Inferring User Attributes in Online Social Networks Using Markov Random Fields](https://dl.acm.org/doi/abs/10.1145/3038912.3052695)". In *International Conference on World Wide Web (WWW)*, 2017.
 
 
-## Contact
+# Contact
 Department of Computer Science, University of Illinois at Urbana-Champaign<br>
 Email: jinyuan [at] psu.edu; jinyuan [at] illinois.edu
