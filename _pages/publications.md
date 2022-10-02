@@ -81,9 +81,8 @@ author_profile: true
 ======
 
 
-* **Jinyuan Jia** and Neil Zhenqiang Gong. "[AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-jia.pdf)". In *USENIX Security Symposium*, 2018. \
-[<span style="color:red">Code and data</span>](https://github.com/jjy1994/AttriGuard) \
-[<span style="color:red">Featured by WIRED</span>](https://www.wired.com/story/adversarial-examples-machine-learning-privacy-social-media/)
+* **Jinyuan Jia** and Neil Zhenqiang Gong. "[AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-jia.pdf)". In *USENIX Security Symposium*, 2018. [<span style="color:red">code</span>](https://github.com/jjy1994/AttriGuard) \
+<span style="color:red">Featured by [WIRED](https://www.wired.com/story/adversarial-examples-machine-learning-privacy-social-media/), [Boing Boing](https://boingboing.net/2019/10/02/mockingbird-and-attriguard.html)</span>
 
 
 2017
