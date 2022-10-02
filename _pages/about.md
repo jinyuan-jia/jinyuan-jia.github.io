@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+[About Me](#1) [Publications](#2)
+
+<span id="1">About Me</span>
 
 Welcome to Jinyuan Jia's homepage!
 
@@ -21,6 +25,7 @@ I am broadly interested in security, privacy, and machine learning with a recent
 <span style="color:red"> **Openings:** I am looking for PhD students and interns to join our research group.  Please drop me an email if you are interested in working with me! </span>
 {: .notice}
 
+<span id="2">Publications</span>
 
 
 ## Contact
