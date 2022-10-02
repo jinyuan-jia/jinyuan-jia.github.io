@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-2022
-=====
+## 2022
+
 * **Jinyuan Jia\***, Wenjie Qu\*, and Neil Zhenqiang Gong. "MultiGuard: Provably Robust Multi-label Classification against Adversarial Examples". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/quwenjie/MultiGuard)
 
 * Yupei Liu, **Jinyuan Jia**, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/pdf/2201.05889.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2022.
@@ -23,8 +23,8 @@ author_profile: true
 * **Jinyuan Jia**, Yupei Liu, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks](https://arxiv.org/pdf/2012.03765.pdf)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2022.
 
 
-2021
-======
+## 2021
+
 * Hongbin Liu\*, **Jinyuan Jia\***, Wenjie Qu, and Neil Zhenqiang Gong.  "[EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning](https://arxiv.org/pdf/2108.11023.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2021. *Equal contribution
 
 * Binghui Wang, **Jinyuan Jia**, Xiaoyu Cao, and Neil Zhenqiang Gong.  "[Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation](https://arxiv.org/pdf/2008.10715.pdf)". In *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2021.
@@ -50,8 +50,8 @@ author_profile: true
 * Binghui Wang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks](https://arxiv.org/pdf/2012.13085)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021.
 
 
-2020
-======
+## 2020
+
 
 * Zaixi Zhang, **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. "[Backdoor Attacks to Graph Neural Networks](http://securedata.lol/camera_ready/13.pdf)". *NeurIPS 2020 Workshop on Dataset Curation and Security*, 2020.
 
@@ -67,8 +67,7 @@ author_profile: true
 * **Jinyuan Jia** and Neil Zhenqiang Gong. "[Defending against Machine Learning based Inference Attacks via Adversarial Examples: Opportunities and Challenges](https://arxiv.org/pdf/1909.08526)". *Adaptive Autonomous Secure Cyber Systems. Springer, Cham*, 2020.
 
 
-2019
-======
+## 2019
 
 * **Jinyuan Jia**, Ahmed Salem, Michael Backes, Yang Zhang, and Neil Zhenqiang Gong. "[MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/pdf/1909.10594)". In *ACM Conference on Computer and Communications Security (CCS)*, 2019. [<span style="color:red">code</span>](https://github.com/jjy1994/MemGuard)
 
@@ -79,16 +78,14 @@ author_profile: true
 
 * Binghui Wang, **Jinyuan Jia**, Le Zhang, and Neil Zhenqiang Gong. "[Structure-based Sybil Detection in Social Networks via Local Rule-based Propagation](https://arxiv.org/pdf/1803.04321)". *IEEE Transactions on Network Science and Engineering (TNSE)*, 6(3), 2019.
 
-2018
-======
+## 2018
 
 
 * **Jinyuan Jia** and Neil Zhenqiang Gong. "[AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-jia.pdf)". In *USENIX Security Symposium*, 2018. [<span style="color:red">code</span>](https://github.com/jjy1994/AttriGuard) \
 <span style="color:red">Featured by [WIRED](https://www.wired.com/story/adversarial-examples-machine-learning-privacy-social-media/), [Boing Boing](https://boingboing.net/2019/10/02/mockingbird-and-attriguard.html)</span>
 
 
-2017
-======
+## 2017
 
 * **Jinyuan Jia**, Binghui Wang, and Neil Zhenqiang Gong. ''[Random Walk based Fake Account Detection in Online Social Networks](https://ieeexplore.ieee.org/abstract/document/8023129)". In *IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 2017.
 
