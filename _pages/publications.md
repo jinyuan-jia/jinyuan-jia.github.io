@@ -7,9 +7,11 @@ author_profile: true
 
 2022
 =====
-* Yupei Liu, **Jinyuan Jia**, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/pdf/2201.05889.pdf)". In ACM Conference on Computer and Communications Security (CCS), 2022.
+* **Jinyuan Jia\***, Wenjie Qu\*, and Neil Zhenqiang Gong. "MultiGuard: Provably Robust Multi-label Classification against Adversarial Examples". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/quwenjie/MultiGuard)
 
-* Zaixi Zhang, Xiaoyu Cao, **Jinayuan Jia**, and Neil Zhenqiang Gong. "[FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients](https://arxiv.org/pdf/2207.09209.pdf)". In ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2022.
+* Yupei Liu, **Jinyuan Jia**, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/pdf/2201.05889.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2022.
+
+* Zaixi Zhang, Xiaoyu Cao, **Jinayuan Jia**, and Neil Zhenqiang Gong. "[FLDetector: Defending Federated Learning Against Model Poisoning Attacks via Detecting Malicious Clients](https://arxiv.org/pdf/2207.09209.pdf)". In *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2022. [<span style="color:red">code</span>](https://github.com/zaixizhang/FLDetector)
 
 * Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning](https://arxiv.org/pdf/2205.06401.pdf)". In *USENIX Security Symposium*, 2022.
 
