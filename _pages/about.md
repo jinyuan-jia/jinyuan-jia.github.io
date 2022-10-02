@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ### [About Me](#1) &nbsp;&nbsp;&nbsp;&nbsp; [Publications](#2)
 
 # <span id="1">About Me</span>
