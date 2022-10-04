@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2022
 
-* **Jinyuan Jia\***, Wenjie Qu\*, and Neil Zhenqiang Gong. "MultiGuard: Provably Robust Multi-label Classification against Adversarial Examples". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/quwenjie/MultiGuard)
+* **Jinyuan Jia\***, Wenjie Qu\*, and Neil Zhenqiang Gong. "[MultiGuard: Provably Robust Multi-label Classification against Adversarial Examples](https://arxiv.org/pdf/2210.01111.pdf)". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2022. \*Equal contribution [<span style="color:red">code</span>](https://github.com/quwenjie/MultiGuard)
 
 * Yupei Liu, **Jinyuan Jia**, Hongbin Liu, and Neil Zhenqiang Gong. "[StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/pdf/2201.05889.pdf)". In *ACM Conference on Computer and Communications Security (CCS)*, 2022.
 
