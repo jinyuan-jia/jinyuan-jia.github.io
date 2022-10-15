@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2023
+
+* Xiaoyu Cao, **Jinyuan Jia**, Zaixi Zhang, and Neil Zhenqiang Gong. "[FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a326/1He7Y3q8FMY)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2023.
+
 ## 2022
 
 *  Xiaoyu Cao, Zaixi Zhang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[FLCert: Provably Secure Federated Learning against Poisoning Attacks](https://arxiv.org/pdf/2210.00584.pdf)". *IEEE Transactions on Information Forensics and Security (TIFS)*, 2022. 
