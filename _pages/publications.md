@@ -12,6 +12,7 @@ author_profile: true
 * Wenjie Qu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service
 ](https://arxiv.org/pdf/2301.02905v1.pdf
 )". In *Network and Distributed System Security Symposium (NDSS)*, 2023.
+
 ## 2022
 
 *  Xiaoyu Cao, Zaixi Zhang, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[FLCert: Provably Secure Federated Learning against Poisoning Attacks](https://arxiv.org/pdf/2210.00584.pdf)". *IEEE Transactions on Information Forensics and Security (TIFS)*, 2022. 
