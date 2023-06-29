@@ -20,6 +20,8 @@ Education
 
 Professional Experience
 ======
+* Visiting Researcher, University of Washington (Hosted by [Prof. Radha Poovendran](https://people.ece.uw.edu/radha/index.html)), 05/2023 - 06/2023
+* Postdoctoral Researcher, University of Illinois Urbana-Champaign, 08/2022 - 06/2023
 * Research Intern, Microsoft Research, 05/2020 - 08/2020
 
 
