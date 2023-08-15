@@ -25,31 +25,31 @@ Machine learning techniques are widely used to solve real-world problems. Howeve
 | Week | Date | Topics | Papers | Notes |
 | - | ---- | ------ | ------- | -------- |
 | 1 | 08/22 | Course overview |  | |
-| 1 | 08/24 |Adversarial examples (white-box)|1. Towards Evaluating the Robustness of Neural Networks <br/> ||
-| 2 | 08/29 |Adversarial examples (black-box)|1. HopSkipJumpAttack: A Query-Efficient Decision-Based Attack <br/> 2. (Optional) Delving into Transferable Adversarial Examples and Black-box Attacks  ||
+| 1 | 08/24 |Adversarial examples in image domain (white-box)|1. Towards Evaluating the Robustness of Neural Networks <br/> ||
+| 2 | 08/29 |Adversarial examples in image domain (black-box)|1. HopSkipJumpAttack: A Query-Efficient Decision-Based Attack <br/> 2. (Optional) Delving into Transferable Adversarial Examples and Black-box Attacks  ||
 | 2 | 08/31 |Empirical defenses against adversarial examples| ||
 | 3 | 09/05 |Certified defenses against adversarial examples| ||
-| 3 | 09/07 |Data poisoning attacks to classifiers| ||
-| 4 | 09/12 | | ||
-| 4 | 09/14 | | ||
-| 5 | 09/19 | | ||
-| 5 | 09/21 | | ||
-| 6 | 09/26 | | ||
-| 6 | 09/28 | | ||
-| 7 | 10/03 | | ||
-| 7 | 10/05 | | ||
-| 8 | 10/10 | | ||
-| 8 | 10/12 | | ||
-| 9 | 10/17 | | ||
-| 9 | 10/19 | | ||
-| 10 | 10/24 | | ||
-| 10 | 10/26 | | ||
-| 11 | 10/31 | | ||
-| 11 | 11/02 | | ||
-| 12 | 11/07 | | ||
-| 12 | 11/09 | | ||
-| 13 | 11/14 | | ||
-| 13 | 11/16 | | ||
+| 3 | 09/07 |Adversarial examples in (large) language models | ||
+| 4 | 09/12 | Certified defenses against adversarial examples in (large) language models | ||
+| 4 | 09/14 | Data poisoning attacks to classifiers| ||
+| 5 | 09/19 | Data poisoning attacks to foundation models| ||
+| 5 | 09/21 | Model poisoning attacks to federated learning| ||
+| 6 | 09/26 | Certified defenses against data poisoning attacks | ||
+| 6 | 09/28 | Backdoor attacks in image domain | ||
+| 7 | 10/03 | Defending against backdoor attacks in image domain | ||
+| 7 | 10/05 | Backdoor attacks to (large) language models| ||
+| 8 | 10/10 | Defending against backdoor attacks to (large) language models| ||
+| 8 | 10/12 | Privacy attacks (membership inference attack) to image classifiers| ||
+| 9 | 10/17 | Privacy attacks to federated learning| ||
+| 9 | 10/19 | Privacy attacks (membership inference attack) to (large) language model| ||
+| 10 | 10/24 | Defending against privacy attacks | ||
+| 10 | 10/26 | Model stealing attacks| ||
+| 11 | 10/31 | Defending against model stealing attacks| ||
+| 11 | 11/02 | Intellectual property protection| ||
+| 12 | 11/07 | Prompt injection attacks to large language models| ||
+| 12 | 11/09 | Jailbreaking large language models | ||
+| 13 | 11/14 | Deepfakes | ||
+| 13 | 11/16 | Machine generated text detection| ||
 | 14 | | Thanksgiving||
 | 15 | 11/28 |Project Presentation| ||
 | 15 | 11/30 |Project Presentation| ||
