@@ -56,6 +56,16 @@ Machine learning techniques are widely used to solve real-world problems. Howeve
 | 16 | 12/05 |Project Presentation| ||
 | 16 | 12/07 |Project Presentation| ||
 
+## Paper Review
+- Deadline: Monday and Wednesday 11:59 pm (EST). Please send your review to this email address: XXX. Please send your review in a single thread (by replying).
+
 ## Group
+- Students can form groups of at most 2 students for the lecture and class project.
+- Lecture: Prepare the slides (or use others' with proper citations) and give a lecture. Choosing a topic for lecture. A group sends three preferred dates to XX by 11:59 pm (EST), 08/31.
+
+- Class project: The project should be related to machine learning (published work cannot be used as the course project).
+
+## Grading Policy
+- 
 
 
