@@ -6,6 +6,13 @@ author_profile: true
 ---
 
 ## 2023
+* Hanting Ye, Guohao Lan, **Jinyuan Jia**, and Qing Wang. "Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera". In *International Conference on Mobile Computing and Networking (MobiCom)*, 2023.
+
+* **Jinyuan Jia\***, Yupei Liu\*, Yuepeng Hu, and Neil Zhenqiang Gong. "[PORE: Provably Robust Recommender Systems against Data Poisoning Attacks](https://arxiv.org/pdf/2303.14601.pdf)". In *USENIX Security Symposium*, 2023. *Equal contribution
+
+* Hangfan Zhang, Jinghui Chen, Lu Lin, **Jinyuan Jia**, and Dinghao Wu. "[Graph Contrastive Backdoor Attacks](https://openreview.net/pdf?id=BfVkbfJGW4)". In *International Conference on Machine Learning (ICML)*, 2023.
+
+* Jinghuai Zhang, **Jinyuan Jia**, Hongbin Liu, and Neil Zhenqiang Gong. "[PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees](https://arxiv.org/pdf/2303.01959.pdf)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023.
 
 * Xiaoyu Cao, **Jinyuan Jia**, Zaixi Zhang, and Neil Zhenqiang Gong. "[FedRecover: Recovering from Poisoning Attacks in Federated Learning using Historical Information](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a326/1He7Y3q8FMY)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2023.
 
