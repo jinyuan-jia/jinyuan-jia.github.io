@@ -20,7 +20,7 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 - Teaching Assistant: **Hangfan Zhang, hbz5148@psu.edu** 
 - Time: **TuTh 3:05 PM - 4:20 PM**
 - Location: **Leonhard Bldg 203**
-- Office Hours: **Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
+- Office Hours: **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate; Hangfan Zhang: Thursday 1:30-2:30 pm, E301 Westgate**
 
 
 ## Tentative Schedule (Subject to Change)
