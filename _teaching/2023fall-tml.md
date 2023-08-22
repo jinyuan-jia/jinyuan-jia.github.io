@@ -30,29 +30,29 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 1 | 08/22 | Course overview |  | |
 | 1 | 08/24 |Adversarial examples in image domain (white-box)|1. Towards Evaluating the Robustness of Neural Networks <br/> ||
 | 2 | 08/29 |Adversarial examples in image domain (black-box)|1. HopSkipJumpAttack: A Query-Efficient Decision-Based Attack <br/> 2. (Optional) Delving into Transferable Adversarial Examples and Black-box Attacks  ||
-| 2 | 08/31 |Empirical defenses against adversarial examples| ||
-| 3 | 09/05 |Certified defenses against adversarial examples| ||
-| 3 | 09/07 |Adversarial examples in (large) language models | ||
-| 4 | 09/12 | Certified defenses against adversarial examples in (large) language models | ||
+| 2 | 08/31 |Empirical defenses against adversarial examples|1.Towards Deep Learning Models Resistant to Adversarial Attacks ||
+| 3 | 09/05 |Certified defenses against adversarial examples|1. Certified Adversarial Robustness via Randomized Smoothing ||
+| 3 | 09/07 |Adversarial examples in (large) language models and their defenses | 1. Certified Robustness to Text Adversarial Attacks by Randomized [MASK] ||
+| 4 | 09/12 | Adversarial examples for good use |1. AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning <br/> 2. (Optional) Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models ||
 | 4 | 09/14 | Data poisoning attacks to classifiers| ||
-| 5 | 09/19 | Data poisoning attacks to foundation models| ||
-| 5 | 09/21 | Model poisoning attacks to federated learning| ||
-| 6 | 09/26 | Certified defenses against data poisoning attacks | ||
-| 6 | 09/28 | Backdoor attacks in image domain | ||
-| 7 | 10/03 | Defending against backdoor attacks in image domain | ||
-| 7 | 10/05 | Backdoor attacks to (large) language models| ||
-| 8 | 10/10 | Defending against backdoor attacks to (large) language models| ||
-| 8 | 10/12 | Privacy attacks (membership inference attack) to image classifiers| ||
-| 9 | 10/17 | Privacy attacks to federated learning| ||
-| 9 | 10/19 | Privacy attacks (membership inference attack) to (large) language model| ||
-| 10 | 10/24 | Defending against privacy attacks | ||
-| 10 | 10/26 | Model stealing attacks| ||
-| 11 | 10/31 | Defending against model stealing attacks| ||
-| 11 | 11/02 | Intellectual property protection| ||
+| 5 | 09/19 | Data poisoning attacks to foundation models| 1. PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning||
+| 5 | 09/21 | Model poisoning attacks to federated learning| 1. Local Model Poisoning Attacks to Byzantine-Robust Federated Learning ||
+| 6 | 09/26 | Certified defenses against data poisoning attacks | 1. Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks ||
+| 6 | 09/28 | Backdoor attacks in image domain | 1. BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain ||
+| 7 | 10/03 | Backdoor attacks to pre-trained foundation models | 1. BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning||
+| 7 | 10/05 | Defending against backdoor attacks in image domain | 1. Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks||
+| 8 | 10/10 | Backdoor attacks to (large) language models and their defenses|1. PICCOLO: Exposing Complex Backdoors in NLP Transformer Models||
+| 8 | 10/12 | Privacy attacks to image classifiers| 1. Membership Inference Attacks against Machine Learning Models||
+| 9 | 10/17 | Privacy attacks to federated learning| 1. Deep Leakage from Gradients||
+| 9 | 10/19 | Privacy attacks to (large) language models and diffusion models| 1. Extracting Training Data from Large Language Models <br/> 2. (Optional) Extracting Training Data from Diffusion Models||
+| 10 | 10/24 | Defending against privacy attacks | 1. Deep Learning with Differential Privacy <br/> 2. (Optional) SecureML: A System for Scalable Privacy-Preserving Machine Learning  ||
+| 10 | 10/26 | Model stealing attacks| 1. Stealing Machine Learning Models via Prediction APIs <br/> 2. (Optional) Stealing Hyperparameters in Machine Learning ||
+| 11 | 10/31 | Defending against model stealing attacks| 1. Prediction Poisoning: Utility-Constrained Defenses Against Model Stealing Attacks||
+| 11 | 11/02 | Intellectual property protection| 1. Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring <br/> 2. (Optional) Certified Neural Network Watermarks with Randomized Smoothing  ||
 | 12 | 11/07 | Prompt injection attacks to large language models| ||
-| 12 | 11/09 | Jailbreaking large language models | ||
-| 13 | 11/14 | Deepfakes | ||
-| 13 | 11/16 | Machine generated text detection| ||
+| 12 | 11/09 | Jailbreaking large language models | 1. Jailbroken: How Does LLM Safety Training Fail? <br/> 2. (Optional) Universal and Transferable Adversarial Attacks on Aligned Language Models ||
+| 13 | 11/14 | Deepfakes | 1. Generative Adversarial Nets <br/> 2. Stable Diffusion||
+| 13 | 11/16 | Machine generated text detection| 1. A Watermark for Large Language Models||
 | 14 | | Thanksgiving||
 | 15 | 11/28 |Project Presentation| ||
 | 15 | 11/30 |Project Presentation| ||
