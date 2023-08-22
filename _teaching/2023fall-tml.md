@@ -73,6 +73,17 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 - 25% reading assignment
 - 10% class participation and quiz
 - 15% class presentation
+- 
+Final grade cutoff:
+- A [93%, 100%]
+- A- [90%, 93%)
+- B+ [87%, 90%)
+- B [83%, 87%)
+- B- [80%, 83%)
+- C+ [77%, 80%)
+- C [70%, 77%)
+- D [60%, 70%)
+- F [0%, 60%)
 
 ## Late Submission Policy
 - 10% deduction for every 24 hours late.
