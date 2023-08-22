@@ -34,7 +34,7 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 3 | 09/05 |Certified defenses against adversarial examples|1. Certified Adversarial Robustness via Randomized Smoothing ||
 | 3 | 09/07 |Adversarial examples in (large) language models and their defenses | 1. Certified Robustness to Text Adversarial Attacks by Randomized [MASK] ||
 | 4 | 09/12 | Adversarial examples for good use |1. AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning <br/> 2. (Optional) Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models ||
-| 4 | 09/14 | Data poisoning attacks to classifiers| ||
+| 4 | 09/14 | Data poisoning attacks to classifiers| 1. Poisoning Attacks against Support Vector Machines <br/> 2. (Optional) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks  ||
 | 5 | 09/19 | Data poisoning attacks to foundation models| 1. PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning||
 | 5 | 09/21 | Model poisoning attacks to federated learning| 1. Local Model Poisoning Attacks to Byzantine-Robust Federated Learning ||
 | 6 | 09/26 | Certified defenses against data poisoning attacks | 1. Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks <br/> 2. (Optional) Certified Robustness of Nearest Neighbors against Data Poisoning Attacks <br/> 3. (Optional) Certified Defenses for Data Poisoning Attacks  ||
@@ -49,7 +49,7 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 10 | 10/26 | Model stealing attacks| 1. Stealing Machine Learning Models via Prediction APIs <br/> 2. (Optional) Stealing Hyperparameters in Machine Learning ||
 | 11 | 10/31 | Defending against model stealing attacks| 1. Prediction Poisoning: Utility-Constrained Defenses Against Model Stealing Attacks||
 | 11 | 11/02 | Intellectual property protection| 1. Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring <br/> 2. (Optional) Certified Neural Network Watermarks with Randomized Smoothing  ||
-| 12 | 11/07 | Prompt injection attacks to large language models| ||
+| 12 | 11/07 | Prompt injection attacks to large language models| 1. Ignore Previous Prompt: Attack Techniques For Language Models ||
 | 12 | 11/09 | Jailbreaking large language models | 1. Jailbroken: How Does LLM Safety Training Fail? <br/> 2. (Optional) Universal and Transferable Adversarial Attacks on Aligned Language Models ||
 | 13 | 11/14 | Deepfakes | 1. Generative Adversarial Nets <br/> 2. Stable Diffusion||
 | 13 | 11/16 | Machine generated text detection| 1. A Watermark for Large Language Models||
