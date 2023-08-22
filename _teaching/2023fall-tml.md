@@ -37,13 +37,13 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 4 | 09/14 | Data poisoning attacks to classifiers| ||
 | 5 | 09/19 | Data poisoning attacks to foundation models| 1. PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning||
 | 5 | 09/21 | Model poisoning attacks to federated learning| 1. Local Model Poisoning Attacks to Byzantine-Robust Federated Learning ||
-| 6 | 09/26 | Certified defenses against data poisoning attacks | 1. Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks ||
-| 6 | 09/28 | Backdoor attacks in image domain | 1. BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain ||
-| 7 | 10/03 | Backdoor attacks to pre-trained foundation models | 1. BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning||
-| 7 | 10/05 | Defending against backdoor attacks in image domain | 1. Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks||
-| 8 | 10/10 | Backdoor attacks to (large) language models and their defenses|1. PICCOLO: Exposing Complex Backdoors in NLP Transformer Models||
-| 8 | 10/12 | Privacy attacks to image classifiers| 1. Membership Inference Attacks against Machine Learning Models||
-| 9 | 10/17 | Privacy attacks to federated learning| 1. Deep Leakage from Gradients||
+| 6 | 09/26 | Certified defenses against data poisoning attacks | 1. Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks <br/> 2. (Optional) Certified Robustness of Nearest Neighbors against Data Poisoning Attacks <br/> 3. (Optional) Certified Defenses for Data Poisoning Attacks  ||
+| 6 | 09/28 | Backdoor attacks in image domain | 1. BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain <br/> 2. (Optional) Trojaning Attack on Neural Networks ||
+| 7 | 10/03 | Backdoor attacks to pre-trained foundation models | 1. BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning <br/> 2. (Optional) Poisoning and Backdooring Contrastive Learning||
+| 7 | 10/05 | Defending against backdoor attacks in image domain | 1. Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks <br/> 2. (Optional)  STRIP: A Defence Against Trojan Attacks on Deep Neural Networks||
+| 8 | 10/10 | Backdoor attacks to (large) language models and their defenses|1. Backdoor Pre-trained Models Can Transfer to All <br/> 2. (Optional) PICCOLO: Exposing Complex Backdoors in NLP Transformer Models||
+| 8 | 10/12 | Privacy attacks to image classifiers| 1. Membership Inference Attacks against Machine Learning Models <br/> 2. (Optional)  Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures||
+| 9 | 10/17 | Privacy attacks to federated learning| 1. Deep Leakage from Gradients <br/> 2. (Optional)  Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning||
 | 9 | 10/19 | Privacy attacks to (large) language models and diffusion models| 1. Extracting Training Data from Large Language Models <br/> 2. (Optional) Extracting Training Data from Diffusion Models||
 | 10 | 10/24 | Defending against privacy attacks | 1. Deep Learning with Differential Privacy <br/> 2. (Optional) SecureML: A System for Scalable Privacy-Preserving Machine Learning  ||
 | 10 | 10/26 | Model stealing attacks| 1. Stealing Machine Learning Models via Prediction APIs <br/> 2. (Optional) Stealing Hyperparameters in Machine Learning ||
