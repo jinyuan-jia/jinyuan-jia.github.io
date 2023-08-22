@@ -73,7 +73,7 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 - 25% reading assignment
 - 10% class participation and quiz
 - 15% class presentation
-- 
+  
 Final grade cutoff:
 - A [93%, 100%]
 - A- [90%, 93%)
