@@ -60,7 +60,7 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 16 | 12/07 |Project Presentation| ||
 
 ## Paper Review
-- Deadline: Monday and Wednesday 11:59 pm (EST). Please send your review to this email address: psutrustworthyml@gmail.com, and send it in a single thread (by replying). Note that ChatGPT should not be used to write the review.
+- Deadline: Monday or Wednesday 11:59 pm (EST). One paper per week. Please send your review to this email address: psutrustworthyml@gmail.com, and send it in a single thread (by replying). Note that ChatGPT should not be used to write the review.
 
 ## Group
 - Students can form groups of at most 2 students for the lecture and class project.
