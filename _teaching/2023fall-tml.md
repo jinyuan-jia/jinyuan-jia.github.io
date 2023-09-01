@@ -32,7 +32,7 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 2 | 08/29 |Adversarial examples in image domain (black-box)|1. HopSkipJumpAttack: A Query-Efficient Decision-Based Attack <br/> 2. (Optional) Delving into Transferable Adversarial Examples and Black-box Attacks  ||
 | 2 | 08/31 |Empirical defenses against adversarial examples|1.Towards Deep Learning Models Resistant to Adversarial Attacks ||
 | 3 | 09/05 |Certified defenses against adversarial examples|1. Certified Adversarial Robustness via Randomized Smoothing ||
-| 3 | 09/07 |Adversarial examples in (large) language models and their defenses | 1. Certified Robustness to Text Adversarial Attacks by Randomized [MASK] ||
+| 3 | 09/07 |Adversarial examples in (large) language models and their defenses | 1. Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks <br/> 2. (Optional) Certified Robustness to Text Adversarial Attacks by Randomized [MASK] ||
 | 4 | 09/12 | Adversarial examples for good use |1. AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning <br/> 2. (Optional) Glaze: Protecting Artists from Style Mimicry by Text-to-Image Models ||
 | 4 | 09/14 | Data poisoning attacks to classifiers| 1. Poisoning Attacks against Support Vector Machines <br/> 2. (Optional) Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks  |Speakers: Hari Pranav Arun Kumar, Manasa Pisipati|
 | 5 | 09/19 | Data poisoning attacks to foundation models| 1. PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning|Speakers: Sai Naveen Katla, Salika Dave|
