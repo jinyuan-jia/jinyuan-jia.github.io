@@ -44,7 +44,7 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 8 | 10/10 | Backdoor attacks to (large) language models and their defenses|1. Backdoor Pre-trained Models Can Transfer to All <br/> 2. (Optional) PICCOLO: Exposing Complex Backdoors in NLP Transformer Models||
 | 8 | 10/12 | Privacy attacks to image classifiers| 1. Membership Inference Attacks against Machine Learning Models <br/> 2. (Optional)  Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures|Speakers: Srija Akula, Hanzheng Wang|
 | 9 | 10/17 | Privacy attacks to federated learning| 1. Deep Leakage from Gradients <br/> 2. (Optional)  Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning|Speakers: Yaopei Zeng and Yuanpu Cao|
-| 9 | 10/19 | Privacy attacks to (large) language models and diffusion models| 1. Extracting Training Data from Large Language Models <br/> 2. (Optional) Extracting Training Data from Diffusion Models||
+| 9 | 10/19 | Privacy attacks to (large) language models and diffusion models| 1. Extracting Training Data from Large Language Models <br/> 2. (Optional) Extracting Training Data from Diffusion Models|Speaker: Keaton Yukio Kraiger|
 | 10 | 10/24 | Defending against privacy attacks | 1. Deep Learning with Differential Privacy <br/> 2. (Optional) SecureML: A System for Scalable Privacy-Preserving Machine Learning  |Speaker: Yanting Wang|
 | 10 | 10/26 | Model stealing attacks| 1. Stealing Machine Learning Models via Prediction APIs <br/> 2. (Optional) Stealing Hyperparameters in Machine Learning ||
 | 11 | 10/31 | Defending against model stealing attacks| 1. Prediction Poisoning: Utility-Constrained Defenses Against Model Stealing Attacks||
