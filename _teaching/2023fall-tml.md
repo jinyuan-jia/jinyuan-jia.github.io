@@ -47,8 +47,8 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 9 | 10/19 | Privacy attacks to (large) language models and diffusion models| 1. Extracting Training Data from Large Language Models <br/> 2. (Optional) Extracting Training Data from Diffusion Models|Speaker: Keaton Yukio Kraiger, Vishal Ahir|
 | 10 | 10/24 | Defending against privacy attacks | 1. Deep Learning with Differential Privacy <br/> 2. (Optional) SecureML: A System for Scalable Privacy-Preserving Machine Learning  |Speaker: Yanting Wang|
 | 10 | 10/26 | Model stealing attacks| 1. Stealing Machine Learning Models via Prediction APIs <br/> 2. (Optional) Stealing Hyperparameters in Machine Learning ||
-| 11 | 10/31 | Defending against model stealing attacks| 1. Prediction Poisoning: Utility-Constrained Defenses Against Model Stealing Attacks||
-| 11 | 11/02 | Intellectual property protection| 1. Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring <br/> 2. (Optional) Certified Neural Network Watermarks with Randomized Smoothing  ||
+| 11 | 10/31 | Intellectual property protection| 1. Prediction Poisoning: Utility-Constrained Defenses Against Model Stealing Attacks <br/> 2. (Optional) Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring <br/> 3. (Optional) Certified Neural Network Watermarks with Randomized Smoothing ||
+| 11 | 11/02 | Image watermarking and its security| 1. Evading Watermark based Detection of AI-Generated Content ||
 | 12 | 11/07 | Prompt injection attacks to large language models| 1. Ignore Previous Prompt: Attack Techniques For Language Models ||
 | 12 | 11/09 | Jailbreaking large language models | 1. Jailbroken: How Does LLM Safety Training Fail? <br/> 2. (Optional) Universal and Transferable Adversarial Attacks on Aligned Language Models |Speaker: Bochuan Cao|
 | 13 | 11/14 | Deepfakes | 1. Generative Adversarial Nets <br/> 2. Stable Diffusion||
