@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+
+* Hengzhi Pei, **Jinyuan Jia**, Wenbo Guo, Bo Li, and Dawn Song. "TextGuard: Provable Defense against Backdoor Attacks on Text
+Classification". In *Network and Distributed System Security Symposium (NDSS)*, 2024.
 
 ## 2023
 
