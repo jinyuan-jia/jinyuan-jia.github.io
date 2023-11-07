@@ -50,9 +50,9 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 11 | 10/31 | Intellectual property protection| 1. Prediction Poisoning: Utility-Constrained Defenses Against Model Stealing Attacks <br/> 2. (Optional) Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring <br/> 3. (Optional) Certified Neural Network Watermarks with Randomized Smoothing ||
 | 11 | 11/02 | Image watermarking and its security| 1. Hidden: Hiding data with deep networks  <br/>  2. (Optional) Evading Watermark based Detection of AI-Generated Content ||
 | 12 | 11/07 | Prompt injection attacks to large language models| 1. Ignore Previous Prompt: Attack Techniques For Language Models <br/> 2. (Optional) Prompt Injection Attacks and Defenses in LLM-Integrated Applications ||
-| 12 | 11/09 | Jailbreaking large language models | 1. Jailbroken: How Does LLM Safety Training Fail? <br/> 2. (Optional) Universal and Transferable Adversarial Attacks on Aligned Language Models |Speaker: Bochuan Cao|
+| 12 | 11/09 | Machine generated text detection| 1. A Watermark for Large Language Models| |
 | 13 | 11/14 | Deepfakes | 1. Generative Adversarial Nets <br/> 2. Stable Diffusion||
-| 13 | 11/16 | Machine generated text detection| 1. A Watermark for Large Language Models||
+| 13 | 11/16 | Safety of LLMs| 1. Jailbroken: How Does LLM Safety Training Fail? <br/> 2. (Optional) Universal and Transferable Adversarial Attacks on Aligned Language Models |Speaker: Bochuan Cao||
 | 14 | | Thanksgiving||
 | 15 | 11/28 |Project Presentation| ||
 | 15 | 11/30 |Project Presentation| ||
