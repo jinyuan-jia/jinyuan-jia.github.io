@@ -6,16 +6,16 @@ author_profile: true
 ---
 ## 2024
 
-* Hengzhi Pei, **Jinyuan Jia**, Wenbo Guo, Bo Li, and Dawn Song. "TextGuard: Provable Defense against Backdoor Attacks on Text
-Classification". In *Network and Distributed System Security Symposium (NDSS)*, 2024.
+* Hengzhi Pei, **Jinyuan Jia**, Wenbo Guo, Bo Li, and Dawn Song. "[TextGuard: Provable Defense against Backdoor Attacks on Text
+Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distributed System Security Symposium (NDSS)*, 2024.
 
 ## 2023
 
-* Bochuan Cao, Changjiang Li, Ting Wang, **Jinyuan Jia**, Bo Li, and Jinghui Chen. "Do Imperceptible Perturbations Really Prevent Unauthorized Data Usage in Diffusion-based Image Generation Systems?". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. 
+* Bochuan Cao, Changjiang Li, Ting Wang, **Jinyuan Jia**, Bo Li, and Jinghui Chen. "[IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI](https://arxiv.org/pdf/2310.19248.pdf)". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. 
 
-* Hangfan Zhang, **Jinyuan Jia**, Jinghui Chen, Lu Lin, and Dinghao Wu. "A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. 
+* Hangfan Zhang, **Jinyuan Jia**, Jinghui Chen, Lu Lin, and Dinghao Wu. "[A3FL: Adversarially Adaptive Backdoor Attacks to Federated Learning](https://openreview.net/pdf?id=S6ajVZy6FA)". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. 
 
-* **Jinyuan Jia\***, Zhuowen Yuan\*, Dinuka Sahabandu, Luyao Niu, Arezoo Rajabi, Bhaskar Ramasubramanian, Bo Li, and Radha Poovendran. "FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. \*Equal contribution 
+* **Jinyuan Jia\***, Zhuowen Yuan\*, Dinuka Sahabandu, Luyao Niu, Arezoo Rajabi, Bhaskar Ramasubramanian, Bo Li, and Radha Poovendran. "[FedGame: A Game-Theoretic Defense against Backdoor Attacks in Federated Learning](https://openreview.net/pdf?id=nX0zYBGEka)". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. \*Equal contribution 
 
 * Hanting Ye, Guohao Lan, **Jinyuan Jia**, and Qing Wang. "[Screen Perturbation: Adversarial Attack and Defense on Under-Screen Camera](https://dl.acm.org/doi/pdf/10.1145/3570361.3613278)". In *International Conference on Mobile Computing and Networking (MobiCom)*, 2023.
 
