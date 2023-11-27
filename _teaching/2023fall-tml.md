@@ -57,7 +57,7 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 15 | 11/28 |Project Presentation| Group 1: Yurui Chang and Yuanpu Cao <br/> Group 2 Vishal Ahir and Keaton Kraiger	 ||
 | 15 | 11/30 |Project Presentation| Group 1: Yanting Wang and Wei Zou <br/> Group 2 Hanzheng Wang <br/> Group 3: Yaopei Zeng ||
 | 16 | 12/05 |Project Presentation| Group 1: Harish Kolla and Nagarajan Girish <br/> Group 2: Sai Naveen Katla and Salika Dave <br/> Group 3: HARI PRANAV ARUN KUMAR	 and Manasa Pisipati||
-| 16 | 12/07 |Project Presentation| Group 1: Ruimeng Shao <br/>||
+| 16 | 12/07 |Project Presentation| Group 1: Ruimeng Shao <br/> Group 2: Yilong Wang and Minhua Lin||
 
 ## Paper Review
 - Deadline: Monday or Wednesday 11:59 pm (EST). One paper per week. Please send your review to this email address: psutrustworthyml@gmail.com, and send it in a single thread (by replying). Note that ChatGPT should not be used to write the review.
