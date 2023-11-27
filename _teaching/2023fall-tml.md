@@ -54,9 +54,9 @@ This course requires the knowledge of basic machine learning (e.g., an undergrad
 | 13 | 11/14 | Deepfakes | 1. Generative Adversarial Nets <br/> 2. Stable Diffusion||
 | 13 | 11/16 | Safety of LLMs| 1. Jailbroken: How Does LLM Safety Training Fail? <br/> 2. (Optional) Universal and Transferable Adversarial Attacks on Aligned Language Models |Speaker: Bochuan Cao||
 | 14 | | Thanksgiving||
-| 15 | 11/28 |Project Presentation| Group 1: HARI PRANAV ARUN KUMAR	 and Manasa Pisipati <br/> Group 2: Yurui Chang and Yuanpu Cao <br/> Group 3 Vishal Ahir and Keaton Kraiger	 ||
+| 15 | 11/28 |Project Presentation| Group 1: Yurui Chang and Yuanpu Cao <br/> Group 2 Vishal Ahir and Keaton Kraiger	 ||
 | 15 | 11/30 |Project Presentation| Group 1: Yanting Wang and Wei Zou <br/> Group 2 Hanzheng Wang <br/> Group 3: Yaopei Zeng ||
-| 16 | 12/05 |Project Presentation| Group 1: Harish Kolla and Nagarajan Girish <br/> Group 2: Sai Naveen Katla and Salika Dave <br/> ||
+| 16 | 12/05 |Project Presentation| Group 1: Harish Kolla and Nagarajan Girish <br/> Group 2: Sai Naveen Katla and Salika Dave <br/> Group 3: HARI PRANAV ARUN KUMAR	 and Manasa Pisipati||
 | 16 | 12/07 |Project Presentation| Group 1: Ruimeng Shao <br/>||
 
 ## Paper Review
