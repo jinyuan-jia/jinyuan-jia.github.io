@@ -32,37 +32,37 @@ The goal of this course is to provide an overview of information security. The t
 | - | ---- | ------ | ------- | -------- |
 | 1  | 01/09/23 | Course Introduction          |                          |
 | 2  | 01/11/23 | Intro to Lab Environments    |                          |
-| 3  | 01/16/23 | Security Problems            | Lab 1 Due                |
+| 3  | 01/16/23 | Security Problems            | Lab 1 Due 11:59 pm (EST)               |
 | 4  | 01/18/23 | Security Principles          |                          |
-| 5  | 01/23/23 | Web Security                 | Lab 2 Due                |
+| 5  | 01/23/23 | Web Security                 | Lab 2 Due   11:59 pm (EST)             |
 | 6  | 01/25/23 | Software Security            |                          |
-| 7  | 01/30/23 | Attack Types 1               | Lab 3 Due                |
+| 7  | 01/30/23 | Attack Types 1               | Lab 3 Due  11:59 pm (EST)              |
 | 8  | 02/01/23 | Attack Types 2               |                          |
 | 9  | 02/06/23 | Exam 1 Review                |                          |
 | 10 | 02/08/23 | Exam 1 (in-class)            |                          |
-| 11 | 02/13/23 | Cryptography Basics 1        | Lab 4 Due                |
+| 11 | 02/13/23 | Cryptography Basics 1        | Lab 4 Due    11:59 pm (EST)            |
 | 12 | 02/15/23 | Cryptography Basics 2        |                          |
 | 13 | 02/20/23 | Symmetric Cryptography 1     |                          |
 | 14 | 02/22/23 | Symmetric Cryptography 2     |                          |
-| 15 | 02/27/23 | Pub Key Cryptography 1       | Lab 5 Due                |
+| 15 | 02/27/23 | Pub Key Cryptography 1       | Lab 5 Due   11:59 pm (EST)             |
 | 16 | 02/29/23 | Pub Key Cryptography 2       |                          |
 | -  | 03/05/23 | SPRING BREAK                 |                          |
 | -  | 03/07/23 | SPRING BREAK                 |                          |
 | 17 | 03/12/23 | Pub Key Infra 1              | Final Project Checkpoint |
 | 18 | 03/14/23 | Pub Key Infra 2              |                          |
-| 19 | 03/19/23 | Hash & Exam 2 Review         | Lab 6 Due                |
+| 19 | 03/19/23 | Hash & Exam 2 Review         | Lab 6 Due    11:59 pm (EST)            |
 | 20 | 03/21/23 | Exam 2 (in-class)            |                          |
 | 21 | 03/26/23 | Network Security             |                          |
-| 22 | 03/28/23 | Access Control 1             | Lab 7 Due                |
+| 22 | 03/28/23 | Access Control 1             | Lab 7 Due  11:59 pm (EST)              |
 | 23 | 04/02/23 | Access Control 2             |                          |
 | 24 | 04/04/23 | Intrusion Detection          |                          |
-| 25 | 04/09/23 | AI and Security 1            | Lab 8 Due                |
+| 25 | 04/09/23 | AI and Security 1            | Lab 8 Due    11:59 pm (EST)            |
 | 26 | 04/11/23 | AI and Security 2            |                          |
 | 27 | 04/16/23 | Data Privacy 1               |                          |
 | 28 | 04/18/23 | Data Privacy 2               |                          |
 | 29 | 04/23/23 | Final Project Presentation 1 |                          |
 | 30 | 04/25/23 | Final Project Presentation 2 |                          |
-| -  | 04/30/23 |                              | Final Project Report Due |
+| -  | 04/30/23 |                              | Final Project Report Due 11:59 pm (EST) |
 
 ## Paper Review
 - Deadline: Monday or Wednesday 11:59 pm (EST). One paper per week. Please send your review to this email address: psutrustworthyml@gmail.com, and send it in a single thread (by replying). Note that ChatGPT should not be used to write the review.
@@ -74,10 +74,10 @@ The goal of this course is to provide an overview of information security. The t
 - Class project: The project should be related to machine learning (published work cannot be used as the course project).
 
 ## Grading Policy
-- 50% project
-- 25% reading assignment
-- 10% class participation and quiz
-- 15% class presentation
+- Labs & Assessments   40%
+- Exams                30%
+- Group Project        20% 
+- Quiz                 10% 
   
 Final grade cutoff:
 - A [93%, 100%]
@@ -91,8 +91,9 @@ Final grade cutoff:
 - F [0%, 60%)
 
 ## Late Submission Policy
-- 10% deduction for every 24 hours late.
-- No more late submission is accepted after 3 days.
+- All assignments are due on the due date at 11:59 pm (EST).
+- Students can submit late with the penalty of 10% deduction for every 24 hours late (up to 3 days).
+- After 3 days, no more late submission is allowed.
 - Please email the instructor regarding extensions for special cases.
 
 ## ACADEMIC INTEGRITY STATEMENT
