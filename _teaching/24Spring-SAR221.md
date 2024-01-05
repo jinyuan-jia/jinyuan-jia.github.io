@@ -100,8 +100,8 @@ Final grade cutoff:
 
 ## Late Submission Policy
 - All assignments are due on the due date at 11:59 pm (EST).
-- Students can submit late with the penalty of 10% deduction for every 24 hours late (up to 3 days).
-- After 3 days, no more late submission is allowed.
+- Students can submit late with the penalty of 10% deduction for every 24 hours late (up to 4 days).
+- After 4 days, no more late submission is allowed.
 - Please email the instructor regarding extensions for special cases.
 
 ## ACADEMIC INTEGRITY STATEMENT
