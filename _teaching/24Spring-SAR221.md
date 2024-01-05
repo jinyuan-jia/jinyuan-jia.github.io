@@ -25,6 +25,14 @@ The goal of this course is to provide an overview of information security. The t
 - Location: **Keller Bldg 211**
 - Office Hours: **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
 
+## Course Materials
+- Recommended (not required): 
+    - Mark Stamp: Information Security: Principles and Practice, Third Edition  
+    - Charles Pfleeger, Shari Pfleeger, Jonathan Margulies : Security in Computing, Fifth Edition.
+
+- Required: Lab Access  -  Purchasing Cyrin Lab Access is required the first week of class (https://cyrin.atcorp.com/course/view.php?id=481)
+.  Your instructor will advise you on the process which consists of creating a Cyrin account and paying for access via Debit or Credit card. The current access fee is $77.5 for all labs used in the course. 
+
 
 ## Tentative Schedule (Subject to Change)
 
@@ -32,31 +40,31 @@ The goal of this course is to provide an overview of information security. The t
 | - | ---- | ------ | ------- | -------- |
 | 1  | 01/09/2024 | Course Introduction          |                          |
 | 2  | 01/11/2024 | Intro to Lab Environments    |                          |
-| 3  | 01/16/2024 | Security Problems            | Lab 1 Due 11:59 pm (EST)               |
+| 3  | 01/16/2024 | Security Problems            | Lab 1: GETTING STARTED WITH CYRIN  |
 | 4  | 01/18/2024 | Security Principles          |                          |
-| 5  | 01/23/2024 | Web Security                 | Lab 2 Due   11:59 pm (EST)             |
+| 5  | 01/23/2024 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP           |
 | 6  | 01/25/2024 | Software Security            |                          |
-| 7  | 01/30/2024 | Attack Types 1               | Lab 3 Due  11:59 pm (EST)              |
+| 7  | 01/30/2024 | Attack Types 1               | Lab 3 WEB SITE RECONNAISSANCE              |
 | 8  | 02/01/2024 | Attack Types 2               |                          |
 | 9  | 02/06/2024 | Exam 1 Review                |                          |
 | 10 | 02/08/2024 | Exam 1 (in-class)            |                          |
-| 11 | 02/13/2024 | Cryptography Basics 1        | Lab 4 Due    11:59 pm (EST)            |
+| 11 | 02/13/2024 | Cryptography Basics 1        | Lab 4 Lab           |
 | 12 | 02/15/2024 | Cryptography Basics 2        |                          |
 | 13 | 02/20/2024 | Symmetric Cryptography 1     |                          |
 | 14 | 02/22/2024 | Symmetric Cryptography 2     |                          |
-| 15 | 02/27/2024 | Pub Key Cryptography 1       | Lab 5 Due   11:59 pm (EST)             |
+| 15 | 02/27/2024 | Pub Key Cryptography 1       | Lab 5            |
 | 16 | 02/29/2024 | Pub Key Cryptography 2       |                          |
 | -  | 03/05/2024 | SPRING BREAK                 |                          |
 | -  | 03/07/2024 | SPRING BREAK                 |                          |
 | 17 | 03/12/2024 | Pub Key Infra 1              | Final Project Checkpoint |
 | 18 | 03/14/2024 | Pub Key Infra 2              |                          |
-| 19 | 03/19/2024 | Hash & Exam 2 Review         | Lab 6 Due    11:59 pm (EST)            |
+| 19 | 03/19/2024 | Hash & Exam 2 Review         | Lab 6       |
 | 20 | 03/21/2024 | Exam 2 (in-class)            |                          |
 | 21 | 03/26/2024 | Network Security             |                          |
-| 22 | 03/28/2024 | Access Control 1             | Lab 7 Due  11:59 pm (EST)              |
+| 22 | 03/28/2024 | Access Control 1             | Lab 7        |
 | 23 | 04/02/2024 | Access Control 2             |                          |
 | 24 | 04/04/2024 | Intrusion Detection          |                          |
-| 25 | 04/09/2024 | AI and Security 1            | Lab 8 Due    11:59 pm (EST)            |
+| 25 | 04/09/2024 | AI and Security 1            | Lab 8       |
 | 26 | 04/11/2024 | AI and Security 2            |                          |
 | 27 | 04/16/2024 | Data Privacy 1               |                          |
 | 28 | 04/18/2024 | Data Privacy 2               |                          |
