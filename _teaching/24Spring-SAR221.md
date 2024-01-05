@@ -72,14 +72,14 @@ The goal of this course is to provide an overview of information security. The t
 | 30 | 04/25/2024 | Final Project Presentation 2 |                          |
 | -  | 04/30/2024 |                              | Final Project Report Due 11:59 pm (EST) |
 
-## Paper Review
-- Deadline: Monday or Wednesday 11:59 pm (EST). One paper per week. Please send your review to this email address: psutrustworthyml@gmail.com, and send it in a single thread (by replying). Note that ChatGPT should not be used to write the review.
 
-## Group
-- Students can form groups of at most 2 students for the lecture and class project.
-- Lecture: Prepare the slides (or use others' with proper citations) and give a lecture. Choosing a topic for lecture. A group sends three preferred dates to psutrustworthyml@gmail.com by 11:59 pm (EST), 08/31.
+## Final Project (Group)
+- Students can form groups of at most 3 students for the final project.
+- Class project: The project should be related to security.
+  - A cool demo of applying information security in real world application.
+  - A nice introduction towards new emerging security topics (e.g., blockchain, decentralized computing, differential privacy, stenography, cloud encryption, zero-knowledge proof etc.
+  - An interesting project demonstrates the importance of protecting information security.
 
-- Class project: The project should be related to machine learning (published work cannot be used as the course project).
 
 ## Grading Policy
 - Labs & Assessments   40%
