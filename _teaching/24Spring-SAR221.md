@@ -26,7 +26,8 @@ The goal of this course is to provide an overview of information security. The t
 - Office Hours: **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
 
 ## Course Materials
-- Recommended (not required): 
+- Recommended (not required):
+    - Principles of Computer Security: CompTIA Security+ and Beyond, Sixth Edition (Exam SY0-601), 6th Edition. Link to Free Edition in the PSU Library, you will need to login to the Library System to access this O'Reilly EBOOK (https://learning.oreilly.com/library/view/principles-of-computer/9781260474329/).
     - Mark Stamp: Information Security: Principles and Practice, Third Edition  
     - Charles Pfleeger, Shari Pfleeger, Jonathan Margulies : Security in Computing, Fifth Edition.
 
