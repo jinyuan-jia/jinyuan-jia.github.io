@@ -64,8 +64,8 @@ The goal of this course is to provide an overview of information security. The t
 | 22 | 03/28/2024 | Access Control 1             | Lab 7        |
 | 23 | 04/02/2024 | Access Control 2             |                          |
 | 24 | 04/04/2024 | Intrusion Detection          |                          |
-| 25 | 04/09/2024 | AI and Security 1            | Lab 8       |
-| 26 | 04/11/2024 | AI and Security 2            |                          |
+| 25 | 04/09/2024 | Machine Learning and Security 1            | Lab 8       |
+| 26 | 04/11/2024 | Machine Learning and Security 2            |                          |
 | 27 | 04/16/2024 | Data Privacy 1               |                          |
 | 28 | 04/18/2024 | Data Privacy 2               |                          |
 | 29 | 04/23/2024 | Final Project Presentation 1 |                          |
