@@ -40,11 +40,11 @@ The goal of this course is to provide an overview of information security. The t
 | - | ---- | ------ | ------- | -------- |
 | 1  | 01/09/2024 | Course Introduction          |                          |
 | 2  | 01/11/2024 | Intro to Lab Environments    |                          |
-| 3  | 01/16/2024 | Security Problems            | Lab 1: GETTING STARTED WITH CYRIN  |
+| 3  | 01/16/2024 | Security Problems            | Lab 1: GETTING STARTED WITH CYRIN (Due at 11:59 PM EST on 01/17/2024)  | 
 | 4  | 01/18/2024 | Security Principles          |                          |
-| 5  | 01/23/2024 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP           |
+| 5  | 01/23/2024 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP (Due at 11:59 PM EST on 01/24/2024)          |
 | 6  | 01/25/2024 | Software Security            |                          |
-| 7  | 01/30/2024 | Attack Types 1               | Lab 3 WEB SITE RECONNAISSANCE              |
+| 7  | 01/30/2024 | Attack Types 1               | Lab 3 WEB SITE RECONNAISSANCE   (Due at 11:59 PM EST on 01/31/2024)            |
 | 8  | 02/01/2024 | Attack Types 2               |                          |
 | 9  | 02/06/2024 | Exam 1 Review                |                          |
 | 10 | 02/08/2024 | Exam 1 (in-class)            |                          |
