@@ -28,7 +28,7 @@ The goal of this course is to provide an overview of information security. The t
 
 ## Course Materials
 - Recommended (not required):
-    - Mark Stamp: Information Security: Principles and Practice, Third Edition  
+    - Computer security: principles and practice, William Stallings, Lawrie Brown, Third Edition 
     - Principles of Computer Security: CompTIA Security+ and Beyond, Sixth Edition (Exam SY0-601), 6th Edition. Link to Free Edition in the PSU Library, you will need to login to the Library System to access this O'Reilly EBOOK (https://learning.oreilly.com/library/view/principles-of-computer/9781260474329/).
 
 
@@ -85,7 +85,8 @@ The goal of this course is to provide an overview of information security. The t
   - Select one of the projects designed by the instructor (see Canvas and Course Introduction Slides for details)
 
 ## Grading Policy
-- Labs & Assessments   40%
+- Labs & Assessments   30%
+- Homework             10%
 - Exams                30%
 - Group Project        20% 
 - Quiz                 10% 
