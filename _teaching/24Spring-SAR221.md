@@ -26,7 +26,7 @@ The goal of this course is to provide an overview of information security. The t
 - Office Hours:
      - **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
      - **Samantha Alyson Bogush : TBD**
-     - **Matthew Joseph Gergus: Monday 4:00 pm - 5:00 pm, Zoom link: TBD**:
+     - **Matthew Joseph Gergus: Monday 4:00 pm - 5:00 pm, Zoom link: TBD**
      - **Alexander Rieth: Wednesday 2:30 pm - 3:30 pm, Zoom link: TBD**  
 
 ## Course Materials
