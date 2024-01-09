@@ -82,8 +82,7 @@ The goal of this course is to provide an overview of information security. The t
 - Students can form groups of at most 3 students for the final project.
 - Class project: The project should be related to security.
   - Designed by your group
-      - A project of information security in real-world applications.
-      - An introduction to emerging cybersecurity threats with a demo. 
+      - A demo of information security in real-world applications.
   - Select one of the projects designed by the instructor (see Canvas and Course Introduction Slides for details)
 
 ## Grading Policy
