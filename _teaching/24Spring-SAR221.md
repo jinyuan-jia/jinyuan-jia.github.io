@@ -79,9 +79,8 @@ The goal of this course is to provide an overview of information security. The t
 - Students can form groups of at most 3 students for the final project.
 - Class project: The project should be related to security.
   - Designed by your group
-      - A cool demo of applying information security in real world application.
-      - A nice introduction towards new emerging security topics (e.g., blockchain, decentralized computing, differential privacy, stenography, cloud encryption, zero-knowledge proof etc.
-      - An interesting project demonstrates the importance of protecting information security.
+      - A project of information security in real-world applications.
+      - An introduction to emerging cybersecurity threats with a demo. 
   - Select one of the projects designed by the instructor (see Canvas and Course Introduction Slides for details)
 
 ## Grading Policy
