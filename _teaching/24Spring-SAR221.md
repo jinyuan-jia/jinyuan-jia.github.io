@@ -27,7 +27,7 @@ The goal of this course is to provide an overview of information security. The t
      - **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
      - **Samantha Alyson Bogush: Friday 3:00 pm - 4:00 pm, Zoom link: https://us04web.zoom.us/j/71961487164?pwd=rTHblgpex3jFbOeJlwRlJAfBFxIZwW.1
        Meeting ID: 719 6148 7164   Passcode: SRA211**
-     - **Matthew Joseph Gergus: Monday 4:00 pm - 5:00 pm, Zoom link: https://psu.zoom.us/j/2370082275**
+     - **Matthew Joseph Gergus: Monday, Sunday 4:00 pm - 6:00 pm, Zoom link: https://psu.zoom.us/j/2370082275**
      - **Alexander Rieth: Monday, Wednesday, and Friday 2:30 pm - 3:30 pm, Zoom link: https://psu.zoom.us/j/7973166084**  
 
 ## Course Materials
