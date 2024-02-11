@@ -7,7 +7,7 @@ author_profile: true
 ## 2024
 
 * Zaishuo Xia\*, Han Yang\*, Binghui Wang, and **Jinyuan Jia**. "[GraphGuard: Provably Robust Graph Classification against Adversarial Attacks
-](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution  
+](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution
 
 * Hengzhi Pei, **Jinyuan Jia**, Wenbo Guo, Bo Li, and Dawn Song. "[TextGuard: Provable Defense against Backdoor Attacks on Text
 Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distributed System Security Symposium (NDSS)*, 2024.
