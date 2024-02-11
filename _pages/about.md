@@ -18,5 +18,3 @@ of Illinois Urbana-Champaign under the supervision of [Prof. Bo Li](https://aise
 
 
 
-<span style="color:red"> **Openings:** I am looking for PhD students and interns to join our research group.  Please drop me an email if you are interested in working with me! </span>
-{: .notice}
