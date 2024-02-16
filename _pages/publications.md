@@ -12,6 +12,7 @@ author_profile: true
 * Hengzhi Pei, **Jinyuan Jia**, Wenbo Guo, Bo Li, and Dawn Song. "[TextGuard: Provable Defense against Backdoor Attacks on Text
 Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distributed System Security Symposium (NDSS)*, 2024.
 
+
 ## 2023
 
 * Bochuan Cao, Changjiang Li, Ting Wang, **Jinyuan Jia**, Bo Li, and Jinghui Chen. "[IMPRESS: Evaluating the Resilience of Imperceptible Perturbations Against Unauthorized Data Usage in Diffusion-Based Generative AI](https://arxiv.org/pdf/2310.19248.pdf)". In *Conference on Neural Information Processing Systems (NeurIPS)*, 2023. 
