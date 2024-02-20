@@ -20,7 +20,7 @@ The goal of this course is to provide an overview of information security. The t
 ## Logistics
 
 - Instructor: **Jinyuan Jia, jinyuan@psu.edu**
-- Teaching Assistant: **Samantha Alyson Bogush (afr5788@psu.edu)**, **Matthew Joseph Gergus (mjg6926@psu.edu)**, and **Alexander Rieth (sab6912@psu.edu)**  
+- Teaching Assistant: **Samantha Alyson Bogush (sab6912@psu.edu)**, **Matthew Joseph Gergus (mjg6926@psu.edu)**, and **Alexander Rieth (afr5788@psu.edu)**  
 - Time: **Tuesday/Thursday 01:35 PM - 02:50 PM**
 - Location: **Keller Bldg 211**
 - Office Hours:
