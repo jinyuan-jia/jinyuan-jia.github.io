@@ -29,6 +29,8 @@ of Illinois Urbana-Champaign under the supervision of [Prof. Bo Li](https://aise
 * Hengzhi Pei, **Jinyuan Jia**, Wenbo Guo, Bo Li, and Dawn Song. "[TextGuard: Provable Defense against Backdoor Attacks on Text
 Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distributed System Security Symposium (NDSS)*, 2024.
 
+* **Jinyuan Jia\***, Yupei Liu\*, Yuepeng Hu, and Neil Zhenqiang Gong. "[PORE: Provably Robust Recommender Systems against Data Poisoning Attacks](https://arxiv.org/pdf/2303.14601.pdf)". In *USENIX Security Symposium*, 2023. *Equal contribution
+
 * **Jinyuan Jia\***, Yupei Liu\*, and Neil Zhenqiang Gong.  "[BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning](https://arxiv.org/pdf/2108.00352.pdf)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2022. \*Equal contribution 
 
 * **Jinyuan Jia**, Xiaoyu Cao, and Neil Zhenqiang Gong. "[Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks](https://arxiv.org/pdf/2008.04495)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2021. 
@@ -38,9 +40,9 @@ Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distribu
 
 * **Jinyuan Jia**, Ahmed Salem, Michael Backes, Yang Zhang, and Neil Zhenqiang Gong. "[MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/pdf/1909.10594)". In *ACM Conference on Computer and Communications Security (CCS)*, 2019. 
 
-
+* **Jinyuan Jia** and Neil Zhenqiang Gong. "[AttriGuard: A Practical Defense Against Attribute Inference Attacks via Adversarial Machine Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-jia.pdf)". In *USENIX Security Symposium*, 2018. 
 
 ## Current Ph.D. Students
 
-- Yanting Wang
-- Wei Zou
+- Yanting Wang (08/2023 - Now)
+- Wei Zou (08/2023 - Now)
