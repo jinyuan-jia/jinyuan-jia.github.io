@@ -20,7 +20,7 @@ of Illinois Urbana-Champaign under the supervision of [Prof. Bo Li](https://aise
 
 - Provably secure/robust machine learning systems
 - LLM-centered AI system security/safety
-- Security and privacy vulnerabilities of other machine learning systems (federated learning, foundation model, graph neural network, etc.)
+- Security and privacy vulnerabilities of other machine learning systems (federated learning, foundation model ecosystem, graph neural network, etc.)
 
 ## Selected Publications [(Full List)](https://jinyuan-jia.github.io/publications/)
 
