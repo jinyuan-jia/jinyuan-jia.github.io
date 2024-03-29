@@ -15,7 +15,7 @@ author_profile: true
 * Yanting Wang, Wei Zou, and **Jinyuan Jia**. "FCert: Provably Robust Few-Shot Classification in the Era of Foundation Model". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2024.
 
 * Zaishuo Xia\*, Han Yang\*, Binghui Wang, and **Jinyuan Jia**. "[GraphGuard: Provably Robust Graph Classification against Adversarial Attacks
-](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution
+](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution \
 <span style="color:red">Oral Presentation</span>
 
 
