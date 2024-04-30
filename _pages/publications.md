@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## 2024
 
-* Jinghuai Zhang, Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[CorruptEncoder: Data Poisoning based Backdoor Attacks to Contrastive Learning](https://arxiv.org/pdf/2211.08229)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
+* Jinghuai Zhang, Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning based Backdoor Attacks to Contrastive Learning](https://arxiv.org/pdf/2211.08229)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
 * Yuan Xiao, Shiqing Ma, Juan Zhai, Chunrong Fang, **Jinyuan Jia**, and Zhenyu Chen. "Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
