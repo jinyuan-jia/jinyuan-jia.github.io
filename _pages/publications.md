@@ -6,13 +6,13 @@ author_profile: true
 ---
 ## 2024
 
-* Jinghuai Zhang, Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "CorruptEncoder: Data Poisoning based Backdoor Attacks to Contrastive Learning". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
+* Jinghuai Zhang, Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[CorruptEncoder: Data Poisoning based Backdoor Attacks to Contrastive Learning](https://arxiv.org/pdf/2211.08229)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
 * Yuan Xiao, Shiqing Ma, Juan Zhai, Chunrong Fang, **Jinyuan Jia**, and Zhenyu Chen. "Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
-* Yanting Wang, Hongye Fu, Wei Zou, and **Jinyuan Jia**. "MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
+* Yanting Wang, Hongye Fu, Wei Zou, and **Jinyuan Jia**. "[MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/pdf/2403.19080)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
-* Yanting Wang, Wei Zou, and **Jinyuan Jia**. "FCert: Provably Robust Few-Shot Classification in the Era of Foundation Model". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2024.
+* Yanting Wang, Wei Zou, and **Jinyuan Jia**. "[FCert: Provably Robust Few-Shot Classification in the Era of Foundation Model](https://arxiv.org/pdf/2404.08631)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2024.
 
 * Zaishuo Xia\*, Han Yang\*, Binghui Wang, and **Jinyuan Jia**. "[GNNCert: Deterministic Certification of Graph Neural Networks against Adversarial Perturbations](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution \
 <span style="color:red">Oral Presentation</span>
