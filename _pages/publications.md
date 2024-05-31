@@ -6,6 +6,20 @@ author_profile: true
 ---
 ## 2024
 
+
+* Zhangchen Xu, Fengqing Jiang, Luyao Niu, **Jinyuan Jia**, Bo Li, and Radha Poovendran. "ACE: A Model Poisoning Attack on Contribution Evaluation Methods
+in Federated Learning". In *USENIX Security Symposium*, 2024.
+
+* Yupei Liu, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.
+
+* Zhangchen Xu, Fengqing Jiang, Luyao Niu, **Jinyuan Jia**, Bill Yuchen Lin, and Radha Poovendran. "[SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding](https://arxiv.org/abs/2402.08983)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
+
+* Hangfan Zhang, Zhimeng Guo, Huaisheng Zhu, Bochuan Cao, Lu Lin, **Jinyuan Jia**, Jinghui Chen, and Dinghao Wu. "[On the Safety of Open-Sourced Large Language Models: Does Alignment Really Prevent Them From Being Misused?](https://arxiv.org/abs/2310.01581)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
+
+* Jiate Li, Meng Pang, Yun Dong, **Jinyuan Jia**, and Binghui Wang. "Graph Neural Network Explanations are Fragile". In *International Conference on Machine Learning (ICML)*, 2024.
+
+* Zhuowen Yuan, Wenbo Guo, **Jinyuan Jia**, Bo Li, and Dawn Song "SHINE: Shielding Backdoors in Deep Reinforcement Learning". In *International Conference on Machine Learning (ICML)*, 2024.
+  
 * Jinghuai Zhang, Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning based Backdoor Attacks to Contrastive Learning](https://arxiv.org/pdf/2211.08229)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
 * Yuan Xiao, Shiqing Ma, Juan Zhai, Chunrong Fang, **Jinyuan Jia**, and Zhenyu Chen. "Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
