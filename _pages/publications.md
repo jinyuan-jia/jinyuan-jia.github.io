@@ -10,7 +10,7 @@ author_profile: true
 * Zhangchen Xu, Fengqing Jiang, Luyao Niu, **Jinyuan Jia**, Bo Li, and Radha Poovendran. "ACE: A Model Poisoning Attack on Contribution Evaluation Methods
 in Federated Learning". In *USENIX Security Symposium*, 2024.
 
-* Yupei Liu, Yuqi Jia, Runpeng Geng, Jinyuan Jia, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.
+* Yupei Liu, Yuqi Jia, Runpeng Geng, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.
 
 * Zhangchen Xu, Fengqing Jiang, Luyao Niu, **Jinyuan Jia**, Bill Yuchen Lin, and Radha Poovendran. "[SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding](https://arxiv.org/abs/2402.08983)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
 
