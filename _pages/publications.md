@@ -18,7 +18,7 @@ in Federated Learning". In *USENIX Security Symposium*, 2024.
 
 * Jiate Li, Meng Pang, Yun Dong, **Jinyuan Jia**, and Binghui Wang. "Graph Neural Network Explanations are Fragile". In *International Conference on Machine Learning (ICML)*, 2024.
 
-* Zhuowen Yuan, Wenbo Guo, **Jinyuan Jia**, Bo Li, and Dawn Song "SHINE: Shielding Backdoors in Deep Reinforcement Learning". In *International Conference on Machine Learning (ICML)*, 2024.
+* Zhuowen Yuan, Wenbo Guo, **Jinyuan Jia**, Bo Li, and Dawn Song. "SHINE: Shielding Backdoors in Deep Reinforcement Learning". In *International Conference on Machine Learning (ICML)*, 2024.
   
 * Jinghuai Zhang, Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning based Backdoor Attacks to Contrastive Learning](https://arxiv.org/pdf/2211.08229)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
