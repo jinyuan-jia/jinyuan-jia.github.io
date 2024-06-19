@@ -24,7 +24,7 @@ of Illinois Urbana-Champaign under the supervision of [Prof. Bo Li](https://aise
 
 ## Selected Publications [(Full List)](https://jinyuan-jia.github.io/publications/)
 
-* Wei Zou, Runpeng Geng, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025.
+* Wei Zou\*, Runpeng Geng\*, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025. *Equal contribution
 
 * Yupei Liu, Yuqi Jia, Runpeng Geng, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.
 
@@ -50,5 +50,7 @@ Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distribu
 
 ## Current Ph.D. Students
 
+- Runpeng Geng (08/2024 - Now)
 - Yanting Wang (08/2023 - Now)
 - Wei Zou (08/2023 - Now)
+
