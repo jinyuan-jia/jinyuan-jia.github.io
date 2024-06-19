@@ -26,6 +26,8 @@ of Illinois Urbana-Champaign under the supervision of [Prof. Bo Li](https://aise
 
 * Wei Zou, Runpeng Geng, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025.
 
+* Yupei Liu, Yuqi Jia, Runpeng Geng, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.
+
 * Yanting Wang, Wei Zou, and **Jinyuan Jia**. "[FCert: Provably Robust Few-Shot Classification in the Era of Foundation Model](https://arxiv.org/pdf/2404.08631)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2024.
 
 * Zaishuo Xia\*, Han Yang\*, Binghui Wang, and **Jinyuan Jia**. "[GNNCert: Deterministic Certification of Graph Neural Networks against Adversarial Perturbations](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution
