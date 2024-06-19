@@ -24,6 +24,8 @@ of Illinois Urbana-Champaign under the supervision of [Prof. Bo Li](https://aise
 
 ## Selected Publications [(Full List)](https://jinyuan-jia.github.io/publications/)
 
+* Wei Zou, Runpeng Geng, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025.
+
 * Yanting Wang, Wei Zou, and **Jinyuan Jia**. "[FCert: Provably Robust Few-Shot Classification in the Era of Foundation Model](https://arxiv.org/pdf/2404.08631)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2024.
 
 * Zaishuo Xia\*, Han Yang\*, Binghui Wang, and **Jinyuan Jia**. "[GNNCert: Deterministic Certification of Graph Neural Networks against Adversarial Perturbations](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution
