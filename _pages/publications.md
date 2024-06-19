@@ -8,7 +8,7 @@ author_profile: true
 ## 2025
 
 
-* Wei Zou, Runpeng Geng, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025.
+* Wei Zou\*, Runpeng Geng\*, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025. *Equal contribution
 
 ## 2024
 
