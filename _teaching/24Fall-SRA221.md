@@ -25,7 +25,7 @@ The goal of this course is to provide an overview of information security. The t
 - Location: **Chambers Bldg 111**
 - Office Hours:
      - **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
-     - **Matthew Joseph Gergus:  1:00 pm -3:00 pm on Tuesday and Thursday, 2:00 pm - 5:00 pm on Sunday, Zoom link: https://psu.zoom.us/j/2370082275**
+     - **Matthew Joseph Gergus:  12:00 pm -2:00 pm on Tuesday and Thursday, 2:00 pm - 6:00 pm on Sunday, Zoom link: https://psu.zoom.us/j/2370082275**
      - **Alexander Rieth: 12:20 pm - 2:20 pm on Monday, Tuesday, and Wednesday, 9:00 am - 2:00 pm on Sunday, Zoom link: https://psu.zoom.us/j/7973166084**  
 
 ## Course Materials
