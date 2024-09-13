@@ -8,7 +8,7 @@ author_profile: true
 ## 2025
 
 
-* Wei Zou\*, Runpeng Geng\*, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025. *Equal contribution
+* Wei Zou\*, Runpeng Geng\*, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025. *Equal contribution [<span style="color:red">code</span>](https://github.com/sleeepeer/PoisonedRAG)
 
 ## 2024
 
@@ -16,11 +16,12 @@ author_profile: true
 * Zhangchen Xu, Fengqing Jiang, Luyao Niu, **Jinyuan Jia**, Bo Li, and Radha Poovendran. "[ACE: A Model Poisoning Attack on Contribution Evaluation Methods
 in Federated Learning](https://arxiv.org/pdf/2405.20975)". In *USENIX Security Symposium*, 2024.
 
-* Yupei Liu, Yuqi Jia, Runpeng Geng, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024.
+* Yupei Liu, Yuqi Jia, Runpeng Geng, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024. [<span style="color:red">code</span>](https://github.com/liu00222/Open-Prompt-Injection)
 
-* Zhangchen Xu, Fengqing Jiang, Luyao Niu, **Jinyuan Jia**, Bill Yuchen Lin, and Radha Poovendran. "[SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding](https://arxiv.org/abs/2402.08983)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
+* Zhangchen Xu, Fengqing Jiang, Luyao Niu, **Jinyuan Jia**, Bill Yuchen Lin, and Radha Poovendran. "[SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding](https://arxiv.org/abs/2402.08983)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024. [<span style="color:red">code</span>](https://github.com/uw-nsl/SafeDecoding)
 
-* Hangfan Zhang, Zhimeng Guo, Huaisheng Zhu, Bochuan Cao, Lu Lin, **Jinyuan Jia**, Jinghui Chen, and Dinghao Wu. "[On the Safety of Open-Sourced Large Language Models: Does Alignment Really Prevent Them From Being Misused?](https://arxiv.org/abs/2310.01581)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
+* Hangfan Zhang, Zhimeng Guo, Huaisheng Zhu, Bochuan Cao, Lu Lin, **Jinyuan Jia**, Jinghui Chen, and Dinghao Wu. "[Jailbreak Open-Sourced Large Language Models via Enforced Decoding
+](https://arxiv.org/abs/2310.01581)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
 
 * Jiate Li, Meng Pang, Yun Dong, **Jinyuan Jia**, and Binghui Wang. "[Graph Neural Network Explanations are Fragile](https://arxiv.org/pdf/2406.03193)". In *International Conference on Machine Learning (ICML)*, 2024.
 
