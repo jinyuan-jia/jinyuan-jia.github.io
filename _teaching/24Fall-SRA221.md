@@ -51,21 +51,21 @@ The goal of this course is to provide an overview of information security. The t
 | 7  | 09/18/2024 | Attack Types 2               |                          |
 | 8  | 09/23/2024 | Exam 1 Review                |                          |
 | 9 | 09/25/2024 | Exam 1 (in-class)            |                          |
-| 10 | 09/30/2024 | Cryptography Basics 1        | Lab 4 Lab           |
-| 11 | 10/02/2024 | Cryptography Basics 2        |                          |
+| 10 | 09/30/2024 | Cryptography Basics 1        |            |
+| 11 | 10/02/2024 | Cryptography Basics 2        | Lab 4 Automating Security Analysis with SPARTA                         |
 | 12 | 10/07/2024 | Symmetric Cryptography 1     |                          |
 | 13 | 10/09/2024 | Symmetric Cryptography 2     |                          |
-| 14 | 10/14/2024 | Pub Key Cryptography 1       | Lab 5            |
+| 14 | 10/14/2024 | Pub Key Cryptography 1       | Lab 5 VPN Server Config with Open VPN 75% is FULL Credit           |
 | 15 | 10/16/2024 | Pub Key Cryptography 2       |                          |
 | 16 | 10/21/2024 | Pub Key Infra 1              | Final Project Checkpoint |
 | 17 | 10/23/2024 | Pub Key Infra 2              |                          |
-| 18 | 10/28/2024 | Hash & Exam 2 Review         | Lab 6       |
+| 18 | 10/28/2024 | Hash & Exam 2 Review         | Lab 6 Firewall Configuration with pfSense     |
 | 19 | 10/30/2024 | Exam 2 (in-class)            |                          |
 | 20 | 11/04/2024 | Network Security             |                          |
-| 21 | 11/06/2024 | Access Control 1             | Lab 7        |
+| 21 | 11/06/2024 | Access Control 1             | Lab 7 Using Active Directory to Manage Domain User Accounts        |
 | 22 | 11/11/2024 | Access Control 2             |                          |
 | 23 | 11/13/2024 | Intrusion Detection          |                          |
-| 24 | 11/18/2024 | Machine Learning and Security 1            | Lab 8       |
+| 24 | 11/18/2024 | Machine Learning and Security 1            | Lab 8 Intro to File Systems Forensics       |
 | 25 | 11/21/2024 | Machine Learning and Security 2            |                          |
 | 26 | 12/02/2024 | Data Privacy 1               |                          |
 | 27 | 12/04/2024 | Data Privacy 2               |                          |
