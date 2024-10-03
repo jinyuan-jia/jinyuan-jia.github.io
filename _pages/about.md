@@ -18,8 +18,8 @@ of Illinois Urbana-Champaign under the supervision of [Prof. Bo Li](https://aise
 
 ## Research Interests
 
-- Provably secure/robust machine learning systems
 - Security/safety of LLM-powered AI systems 
+- Provably secure/robust machine learning systems
 - Security and privacy vulnerabilities of other machine learning systems (federated learning, foundation model ecosystem, graph neural network, etc.)
 
 ## Selected Publications [(Full List)](https://jinyuan-jia.github.io/publications/)
