@@ -30,24 +30,24 @@ in Federated Learning](https://arxiv.org/pdf/2405.20975)". In *USENIX Security S
 * Hangfan Zhang, Zhimeng Guo, Huaisheng Zhu, Bochuan Cao, Lu Lin, **Jinyuan Jia**, Jinghui Chen, and Dinghao Wu. "[Jailbreak Open-Sourced Large Language Models via Enforced Decoding
 ](https://arxiv.org/abs/2310.01581)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
 
-* Jiate Li, Meng Pang, Yun Dong, **Jinyuan Jia**, and Binghui Wang. "[Graph Neural Network Explanations are Fragile](https://arxiv.org/pdf/2406.03193)". In *International Conference on Machine Learning (ICML)*, 2024.
+* Jiate Li, Meng Pang, Yun Dong, **Jinyuan Jia**, and Binghui Wang. "[Graph Neural Network Explanations are Fragile](https://arxiv.org/pdf/2406.03193)". In *International Conference on Machine Learning (ICML)*, 2024. [<span style="color:red">code</span>](https://github.com/JetRichardLee/Attack-XGNN)
 
 * Zhuowen Yuan, Wenbo Guo, **Jinyuan Jia**, Bo Li, and Dawn Song. "[SHINE: Shielding Backdoors in Deep Reinforcement Learning](https://openreview.net/pdf?id=nMWxLnSBGW)". In *International Conference on Machine Learning (ICML)*, 2024.
   
-* Jinghuai Zhang, Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning based Backdoor Attacks to Contrastive Learning](https://arxiv.org/pdf/2211.08229)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
+* Jinghuai Zhang, Hongbin Liu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Data Poisoning based Backdoor Attacks to Contrastive Learning](https://arxiv.org/pdf/2211.08229)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024. [<span style="color:red">code</span>](https://github.com/jzhang538/CorruptEncoder)
 
 * Yuan Xiao, Shiqing Ma, Juan Zhai, Chunrong Fang, **Jinyuan Jia**, and Zhenyu Chen. "[Towards General Robustness Verification of MaxPool-based Convolutional Neural Networks via Tightening Linear Approximation](https://openaccess.thecvf.com/content/CVPR2024/papers/Xiao_Towards_General_Robustness_Verification_of_MaxPool-based_Convolutional_Neural_Networks_via_CVPR_2024_paper.pdf)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
 
-* Yanting Wang, Hongye Fu, Wei Zou, and **Jinyuan Jia**. "[MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/pdf/2403.19080)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024.
+* Yanting Wang, Hongye Fu, Wei Zou, and **Jinyuan Jia**. "[MMCert: Provable Defense against Adversarial Attacks to Multi-modal Models](https://arxiv.org/pdf/2403.19080)". In *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)*, 2024. [<span style="color:red">code</span>](https://github.com/WYT8506/MultimodalCertification)
 
 * Yanting Wang, Wei Zou, and **Jinyuan Jia**. "[FCert: Provably Robust Few-Shot Classification in the Era of Foundation Model](https://arxiv.org/pdf/2404.08631)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2024.
 
-* Zaishuo Xia\*, Han Yang\*, Binghui Wang, and **Jinyuan Jia**. "[GNNCert: Deterministic Certification of Graph Neural Networks against Adversarial Perturbations](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution \
+* Zaishuo Xia\*, Han Yang\*, Binghui Wang, and **Jinyuan Jia**. "[GNNCert: Deterministic Certification of Graph Neural Networks against Adversarial Perturbations](https://openreview.net/forum?id=IGzaH538fz)". In *International Conference on Learning Representations (ICLR)*, 2024. \*Equal contribution  [<span style="color:red">code</span>](https://github.com/XiaFire/GNNCERT) \
 <span style="color:red">Oral Presentation</span>
 
 
 * Hengzhi Pei, **Jinyuan Jia**, Wenbo Guo, Bo Li, and Dawn Song. "[TextGuard: Provable Defense against Backdoor Attacks on Text
-Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distributed System Security Symposium (NDSS)*, 2024.
+Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distributed System Security Symposium (NDSS)*, 2024. [<span style="color:red">code</span>](https://github.com/AI-secure/TextGuard)
 
 
 ## 2023
