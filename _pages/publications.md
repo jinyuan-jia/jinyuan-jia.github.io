@@ -18,7 +18,7 @@ in Federated Learning](https://arxiv.org/pdf/2405.20975)". In *USENIX Security S
 
 * Yupei Liu, Yuqi Jia, Runpeng Geng, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Formalizing and Benchmarking Prompt Injection Attacks and Defenses](https://arxiv.org/abs/2310.12815)". In *USENIX Security Symposium*, 2024. [<span style="color:red">code</span>](https://github.com/liu00222/Open-Prompt-Injection)
 
-* Yuxin Yang, Qiang Li, **Jinyuan Jia**, Yuan Hong, and Binghui Wang. "[Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses](https://arxiv.org/pdf/2407.08935)". In *ACM Conference on Computer and Communications Security (CCS)*, 2024. [<span style="color:red">code</span>](https://github.com/zhengyuan-jiang/Watermark-Library) \
+* Yuxin Yang, Qiang Li, **Jinyuan Jia**, Yuan Hong, and Binghui Wang. "[Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses](https://arxiv.org/pdf/2407.08935)". In *ACM Conference on Computer and Communications Security (CCS)*, 2024. [<span style="color:red">code</span>](https://github.com/Yuxin104/Opt-GDBA) \
 <span style="color:red">Distinguished Paper Award</span>
 
 * Zhengyuan Jiang, Moyang Guo, Yuepeng Hu, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Certifiably Robust Image Watermark](https://arxiv.org/pdf/2407.04086)". In *European Conference on Computer Vision (ECCV)*, 2024. [<span style="color:red">code</span>](https://github.com/uw-nsl/SafeDecoding)
@@ -28,7 +28,7 @@ in Federated Learning](https://arxiv.org/pdf/2405.20975)". In *USENIX Security S
 * Zhangchen Xu, Fengqing Jiang, Luyao Niu, **Jinyuan Jia**, Bill Yuchen Lin, and Radha Poovendran. "[SafeDecoding: Defending against Jailbreak Attacks via Safety-Aware Decoding](https://arxiv.org/abs/2402.08983)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024. [<span style="color:red">code</span>](https://github.com/uw-nsl/SafeDecoding)
 
 * Hangfan Zhang, Zhimeng Guo, Huaisheng Zhu, Bochuan Cao, Lu Lin, **Jinyuan Jia**, Jinghui Chen, and Dinghao Wu. "[Jailbreak Open-Sourced Large Language Models via Enforced Decoding
-](https://arxiv.org/abs/2310.01581)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024.
+](https://arxiv.org/abs/2310.01581)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024. [<span style="color:red">code</span>](https://github.com/hfzhang31/EnDec)
 
 * Jiate Li, Meng Pang, Yun Dong, **Jinyuan Jia**, and Binghui Wang. "[Graph Neural Network Explanations are Fragile](https://arxiv.org/pdf/2406.03193)". In *International Conference on Machine Learning (ICML)*, 2024. [<span style="color:red">code</span>](https://github.com/JetRichardLee/Attack-XGNN)
 
