@@ -2,9 +2,9 @@
 title: "SRA 221: Overview of Information Security"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/24Fall-SAR221
+permalink: /teaching/25Spring-SRA221
 venue: "Penn State, College of IST"
-date: 2024-08-24
+date: 2025-01-01
 location: "State College, US"
 ---
 
@@ -21,12 +21,12 @@ The goal of this course is to provide an overview of information security. The t
 
 - Instructor: **Jinyuan Jia, jinyuan@psu.edu**
 - Teaching Assistant: **Matthew Joseph Gergus (mjg6926@psu.edu)**, and **Alexander Rieth (afr5788@psu.edu)**  
-- Time: **Monday/Wednesday 04:00 PM - 05:15 PM**
-- Location: **Chambers Bldg 111**
+- Time: **Tuesday/Thursday 03:05 PM - 04:20 PM**
+- Location: **Boucke Bldg 214**
 - Office Hours:
      - **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
-     - **Matthew Joseph Gergus:  12:00 pm -2:00 pm on Tuesday and Thursday, 2:00 pm - 6:00 pm on Sunday, Zoom link: https://psu.zoom.us/j/2370082275**
-     - **Alexander Rieth: 12:20 pm - 2:20 pm on Monday, Wednesday, and Friday, 9:00 am - 2:00 pm on Sunday, Zoom link: https://psu.zoom.us/j/7973166084**  
+     - **Matthew Joseph Gergus:  TBD, Zoom link: https://psu.zoom.us/j/2370082275**
+     - **Alexander Rieth: TBD, Zoom link: https://psu.zoom.us/j/7973166084**  
 
 ## Course Materials
 - Recommended (not required):
@@ -34,7 +34,7 @@ The goal of this course is to provide an overview of information security. The t
     - Principles of Computer Security: CompTIA Security+ and Beyond, Sixth Edition (Exam SY0-601), 6th Edition. Link to Free Edition in the PSU Library, you will need to login to the Library System to access this O'Reilly EBOOK (https://learning.oreilly.com/library/view/principles-of-computer/9781260474329/).
 
 
-- Required: Lab Access  -  Purchasing Cyrin Lab Access is required the first week of class (https://cyrin.atcorp.com/course/view.php?id=532 )
+- Required: Lab Access  -  Purchasing Cyrin Lab Access is required the first week of class (link to be added )
 .  Your instructor will advise you on the process which consists of creating a Cyrin account and paying for access via Debit or Credit card. The current access fee is $77.5 for all labs used in the course. 
 
 
@@ -42,10 +42,10 @@ The goal of this course is to provide an overview of information security. The t
 
 | Week | Date | Topics | Due Dates | Notes |
 | - | ---- | ------ | ------- | -------- |
-| 1  | 08/26/2024 | Course Introduction          |                          |
-| 2  | 08/28/2024 | Security Problems   |                          |
-| 3| 09/04/2024 | Intro to Lab Environments and Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN (Due at 11:59 PM EST on 01/17/2024)               |
-| 4  | 09/09/2024 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP (Due at 11:59 PM EST on 01/24/2024)          |
+| 1  | 01/14/2024 | Course Introduction          |                          |
+| 2  | 01/16/2024 | Security Problems   |                          |
+| 3| 01/21/2024 | Intro to Lab Environments and Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN (Due at 11:59 PM EST on 01/17/2024)               |
+| 4  | 01/23/2024 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP (Due at 11:59 PM EST on 01/24/2024)          |
 | 5  | 09/11/2024 | Software Security            |                          |
 | 6  | 09/16/2024 | Attack Types 1               | Lab 3 WEB SITE RECONNAISSANCE   (Due at 11:59 PM EST on 01/31/2024)            |
 | 7  | 09/18/2024 | Attack Types 2               |                          |
