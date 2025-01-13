@@ -34,7 +34,7 @@ The goal of this course is to provide an overview of information security. The t
     - Principles of Computer Security: CompTIA Security+ and Beyond, Sixth Edition (Exam SY0-601), 6th Edition. Link to Free Edition in the PSU Library, you will need to login to the Library System to access this O'Reilly EBOOK (https://learning.oreilly.com/library/view/principles-of-computer/9781260474329/).
 
 
-- Required: Lab Access  -  Purchasing Cyrin Lab Access is required the first week of class (link to be added )
+- Required: Lab Access  -  Purchasing Cyrin Lab Access is required the first week of class ( https://cyrin.atcorp.com/course/view.php?id=556), please select the section taught by Jinyuan Jia. 
 .  Your instructor will advise you on the process which consists of creating a Cyrin account and paying for access via Debit or Credit card. The current access fee is $77.5 for all labs used in the course. 
 
 
