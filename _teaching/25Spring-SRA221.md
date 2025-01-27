@@ -44,19 +44,20 @@ The goal of this course is to provide an overview of information security. The t
 | \# | Date | Topics | Due Dates | Notes |
 | - | ---- | ------ | ------- | -------- |
 | 1  | 01/14/2025 | Course Introduction          |                          |
-| 2  | 01/16/2025 | Security Problems   |                          |
-| 3| 01/21/2025 | Intro to Lab Environments and Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN               |
-| 4  | 01/23/2025 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP         |
-| 4  | 01/28/2025 | Network Security                 |           |
-| 5  | 01/30/2025 | Software Security            |                          |
-| 6  | 02/04/2025 | Attack Types 1               | Lab 3 WEB SITE RECONNAISSANCE          |
-| 7  | 02/06/2025 | Attack Types 2               |                          |
-| 8  | 02/11/2025 | Exam 1 Review                |                          |
-| 9 | 02/13/2025 | Exam 1 (in-class)            |                          |
-| 10 | 02/18/2025 | Cryptography Basics 1        |            |
-| 11 | 02/20/2025 | Cryptography Basics 2        | Lab 4 Automating Security Analysis with SPARTA                         |
-| 12 | 02/25/2025 | Symmetric Cryptography 1     |                          |
-| 13 | 02/27/2025 | Symmetric Cryptography 2     |                          |
+| 1  | 01/16/2025 | Security Problems   |                          |
+| 2| 01/21/2025 | Intro to Lab Environments and Security Principles          |                    |
+| 2| 01/23/2025 | Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN               |
+| 3  | 01/28/2025 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP         |
+| 3  | 01/30/2025 | Network Security                 |           |
+| 5  | 01/04/2025 | Software Security            |                          |
+| 6  | 02/06/2025 | Attack Types 1               | Lab 3 WEB SITE RECONNAISSANCE          |
+| 7  | 02/11/2025 | Attack Types 2               |                          |
+| 8  | 02/13/2025 | Exam 1 Review                |                          |
+| 9 | 02/18/2025 | Exam 1 (in-class)            |                          |
+| 10 | 02/20/2025 | Cryptography Basics 1        |            |
+| 11 | 02/25/2025 | Cryptography Basics 2        | Lab 4 Automating Security Analysis with SPARTA                         |
+| 12 | 02/27/2025 | Symmetric Cryptography 1     |                          |
+| 13 | 03/04/2025 | Symmetric Cryptography 2     |                          |
 | 14 | 03/04/2025 | Pub Key Cryptography 1       | Lab 5 VPN Server Config with Open VPN 75% is FULL Credit           |
 | 15 | 03/06/2025 | Pub Key Cryptography 2       |                          |
 | 16 | 03/18/2025 | Pub Key Infra 1              | Final Project Checkpoint |
