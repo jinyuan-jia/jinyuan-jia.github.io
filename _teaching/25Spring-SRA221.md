@@ -41,7 +41,7 @@ The goal of this course is to provide an overview of information security. The t
 
 ## Tentative Schedule (Subject to Change)
 
-| Week | Date | Topics | Due Dates | Notes |
+| \# | Date | Topics | Due Dates | Notes |
 | - | ---- | ------ | ------- | -------- |
 | 1  | 01/14/2025 | Course Introduction          |                          |
 | 2  | 01/16/2025 | Security Problems   |                          |
