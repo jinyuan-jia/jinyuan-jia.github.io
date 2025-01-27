@@ -33,10 +33,11 @@ The goal of this course is to provide an overview of information security. The t
     - Computer security: principles and practice, William Stallings, Lawrie Brown, Third Edition 
     - Principles of Computer Security: CompTIA Security+ and Beyond, Sixth Edition (Exam SY0-601), 6th Edition. Link to Free Edition in the PSU Library, you will need to login to the Library System to access this O'Reilly EBOOK (https://learning.oreilly.com/library/view/principles-of-computer/9781260474329/).
 
+- Required: Lab Access  -  Purchasing Cyrin Lab Access is required the first week of class ( https://cyrin.atcorp.com/course/view.php?id=556 ), please select the section taught by Jinyuan Jia. 
+   Your instructor will advise you on the process which consists of creating a Cyrin account and paying for access via Debit or Credit card. The current access fee is $77.5 for all labs used in the course. 
 
-- Required: Lab Access  -  Purchasing Cyrin Lab Access is required the first week of class ( https://cyrin.atcorp.com/course/view.php?id=556), please select the section taught by Jinyuan Jia. 
-.  Your instructor will advise you on the process which consists of creating a Cyrin account and paying for access via Debit or Credit card. The current access fee is $77.5 for all labs used in the course. 
-
+## Due Dates for Assignments
+ - The due date for an assignment can be found on Canvas. 
 
 ## Tentative Schedule (Subject to Change)
 
@@ -44,11 +45,11 @@ The goal of this course is to provide an overview of information security. The t
 | - | ---- | ------ | ------- | -------- |
 | 1  | 01/14/2025 | Course Introduction          |                          |
 | 2  | 01/16/2025 | Security Problems   |                          |
-| 3| 01/21/2025 | Intro to Lab Environments and Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN (Due at 11:59 PM EST on 01/17/2024)               |
-| 4  | 01/23/2025 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP (Due at 11:59 PM EST on 01/24/2024)          |
+| 3| 01/21/2025 | Intro to Lab Environments and Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN               |
+| 4  | 01/23/2025 | Web Security                 | Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP         |
 | 4  | 01/28/2025 | Network Security                 |           |
 | 5  | 01/30/2025 | Software Security            |                          |
-| 6  | 02/04/2025 | Attack Types 1               | Lab 3 WEB SITE RECONNAISSANCE   (Due at 11:59 PM EST on 01/31/2024)            |
+| 6  | 02/04/2025 | Attack Types 1               | Lab 3 WEB SITE RECONNAISSANCE          |
 | 7  | 02/06/2025 | Attack Types 2               |                          |
 | 8  | 02/11/2025 | Exam 1 Review                |                          |
 | 9 | 02/13/2025 | Exam 1 (in-class)            |                          |
