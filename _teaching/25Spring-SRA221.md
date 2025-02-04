@@ -44,7 +44,7 @@ The goal of this course is to provide an overview of information security. The t
 | \# | Date | Topics | Due Dates | Notes |
 | - | ---- | ------ | ------- | -------- |
 | 1  | 01/14/2025 | Course Introduction          |                          |
-| 1  | 01/16/2025 | Security Problems   |                          |
+| 1  | 01/16/2025 | Overview of Information Security   |                          |
 | 2| 01/21/2025 | Intro to Lab Environments           |                    |
 | 2| 01/23/2025 | Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN               |
 | 3  | 01/28/2025 | Software Security            |        |
