@@ -48,9 +48,9 @@ The goal of this course is to provide an overview of information security. The t
 | 2| 01/21/2025 | Intro to Lab Environments and Security Principles          |                    |
 | 2| 01/23/2025 | Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN               |
 | 3  | 01/28/2025 | Software Security            |        |
-| 3  | 01/30/2025 | Web Security                 |      Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP       |
-| 4  | 01/04/2025 | Network Security 1            |                          |
-| 4  | 02/06/2025 | Network Security 2               | Lab 3 WEB SITE RECONNAISSANCE          |
+| 3  | 01/30/2025 | Malware                |      Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP       |
+| 4  | 02/04/2025 | Web Security             |                          |
+| 4  | 02/06/2025 | Network Security               | Lab 3 WEB SITE RECONNAISSANCE          |
 | 5  | 02/11/2025 | Exam 1 Review               |                          |
 | 5  | 02/13/2025 | Exam 1 (in-class)                |                          |
 | 6 | 02/18/2025 | Cryptography Basics 1           |                          |
