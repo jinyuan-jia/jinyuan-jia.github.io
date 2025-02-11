@@ -83,7 +83,7 @@ The goal of this course is to provide an overview of information security. The t
   - Select one of the projects designed by the instructor (see Canvas and Course Introduction Slides for details)
 
 ## Grading Policy
-- Labs & Assessments   30%
+- Labs   30%
 - Exams                30%
 - Group Project        20% 
 - Quiz                 20% 
