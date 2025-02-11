@@ -88,7 +88,7 @@ The goal of this course is to provide an overview of information security. The t
 - Group Project        20% 
 - Quiz                 20% 
   
-## Final Grade Cutoff:
+## Final Grade Cutoff
 - A [93%, 100%]
 - A- [90%, 93%)
 - B+ [87%, 90%)
