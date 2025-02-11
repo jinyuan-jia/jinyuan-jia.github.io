@@ -21,7 +21,7 @@ The goal of this course is to provide an overview of information security. The t
 
 - Instructor: **Jinyuan Jia, jinyuan@psu.edu**
 - Teaching Assistant: **Matthew Joseph Gergus (mjg6926@psu.edu)**, and **Alexander Rieth (afr5788@psu.edu)**  
-- Time: **Tuesday/Thursday 03:05 PM - 04:20 PM**
+- Time: <span style="color:red">Tuesday/Thursday 03:05 PM - 04:20 PM</span>
 - Location: **Boucke Bldg 214**
 - Office Hours:
      - **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
