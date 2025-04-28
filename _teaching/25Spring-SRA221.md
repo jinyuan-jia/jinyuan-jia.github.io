@@ -110,6 +110,15 @@ Academic integrity is the pursuit of scholarly activity in an open, honest and r
 
 Academic integrity includes a commitment by all members of the University community not to engage in or tolerate acts of falsification, misrepresentation or deception. Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.
 
+AI (e.g., ChatGPT)  generated project reports are disallowed and will be treated as Academic Integrity Violations.
+
+For more information, please review these policies and procedures:
+
+[<span style="color:blue">College of IST Academic Integrity Resources</span>](https://ist.psu.edu/current/undergraduate/advising/integrity)
+
+While utilizing additional sources outside of this class is encouraged for gaining a better understanding of course concepts, seeking explicit answers for graded assignments from outside sources (e.g. Course Hero, Chegg, tutoring services like tutor.com, etc.) is considered CHEATING and will not be tolerated. Sanctions range from failure of the assignment or course to dismissal from the University. Additionally, sharing course content without permission is a violation of copyright and may result in university sanctions and/or legal ramifications. Contact your instructor with questions related to this topic. 
+
+
 ## DISABILITY ACCOMMODATION STATEMENT
 Penn State welcomes students with disabilities into the University’s educational programs. Every Penn State campus has an office for students with disabilities. Student Disability Resources (SDR) website provides contact information for every Penn State campus
 (http://equity.psu.edu/sdr/disability-coordinator). For further information, please visit Student Disability Resources website
