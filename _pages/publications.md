@@ -14,7 +14,7 @@ author_profile: true
 
 * Wei Zou\*, Runpeng Geng\*, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025. *Equal contribution [<span style="color:red">code</span>](https://github.com/sleeepeer/PoisonedRAG)
 
-* Yupei Liu, Yuqi Jia, **Jinyuan Jia**, Dawn Song, and Neil Zhenqiang Gong. "[DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks](https://arxiv.org/abs/2504.11358)". In *IEEE Symposium on Security and Privacy (IEEE S\&P)*, 2025. [<span style="color:red">code</span>](https://github.com/liu00222/Open-Prompt-Injection) \
+* Yupei Liu, Yuqi Jia, **Jinyuan Jia**, Dawn Song, and Neil Zhenqiang Gong. "[DataSentinel: A Game-Theoretic Detection of Prompt Injection Attacks](https://arxiv.org/abs/2504.11358)". In *IEEE Symposium on Security and Privacy (IEEE S&P)*, 2025. [<span style="color:red">code</span>](https://github.com/liu00222/Open-Prompt-Injection) \
 <span style="color:red">Distinguished Paper Award</span>
 
 * Lingyu Du, Yupei Liu, **Jinyuan Jia**, and Guohao Lan. "[SecureGaze: Defending Gaze Estimation Against Backdoor Attacks
