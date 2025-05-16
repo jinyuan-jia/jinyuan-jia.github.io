@@ -7,8 +7,16 @@ author_profile: true
 
 ## 2025
 
+* Yupei Liu, Yuqi Jia, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Evaluating LLM-based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025. [<span style="color:red">code</span>](https://doi.org/10.5281/zenodo.14737200)
 
-* Wei Zou\*, Runpeng Geng\*, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025. *Equal contribution [<span style="color:red">code</span>](https://github.com/sleeepeer/PoisonedRAG)
+
+* Wenjie Qu, Wengrui Zheng, Tianyang Tao, Dong Yin, Yanze Jiang, Zhihua Tian, Wei Zou, **Jinyuan Jia**, and Jiaheng Zhang. "[Provably Robust Multi-bit Watermarking for AI-generated Text](https://arxiv.org/abs/2401.16820)". In *USENIX Security Symposium*, 2025. [<span style="color:red">code</span>](https://github.com/randomizedtree/segment-watermark)
+
+* Wei Zou\*, Runpeng Geng\*, Binghui Wang, and **Jinyuan Jia**. "[PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867)". In *USENIX Security Symposium*, 2025. *Equal contribution [<span style="color:red">code</span>](https://github.com/sleeepeer/PoisonedRAG)
+
+* Lingyu Du, Yupei Liu, **Jinyuan Jia**, and Guohao Lan. "[SecureGaze: Defending Gaze Estimation Against Backdoor Attacks
+](https://dl.acm.org/doi/pdf/10.1145/3715014.3722071)". In *ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2025. [<span style="color:red">code</span>](https://github.com/LingyuDu/SecureGaze)
+
 
 ## 2024
 
