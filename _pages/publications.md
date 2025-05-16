@@ -20,6 +20,10 @@ author_profile: true
 * Lingyu Du, Yupei Liu, **Jinyuan Jia**, and Guohao Lan. "[SecureGaze: Defending Gaze Estimation Against Backdoor Attacks
 ](https://dl.acm.org/doi/pdf/10.1145/3715014.3722071)". In *ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2025. [<span style="color:red">code</span>](https://github.com/LingyuDu/SecureGaze)
 
+* Minhua Lin, Enyan Dai, Junjie Xu, **Jinyuan Jia**, Xiang Zhang, and Suhang Wang. "[Stealing Training Graphs from Graph Neural Networks](https://arxiv.org/abs/2411.11197)". In *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025.
+
+* Yupei Liu, Yanting Wang, **Jinyuan Jia**. "[TrojanDec: Data-free Detection of Trojan Inputs in Self-supervised Learning](https://arxiv.org/abs/2501.04108)". In *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
+
 * Jiate Li, Meng Pang, Yun Dong, **Jinyuan Jia**, Binghui Wang. "[Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks](https://dl.acm.org/doi/pdf/10.1145/3715014.3722071)". In *International Conference on Learning Representations (ICLR)*, 2025. [<span style="color:red">code</span>](https://github.com/JetRichardLee/XGNNCert)
 
 ## 2024
