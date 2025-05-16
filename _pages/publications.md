@@ -20,6 +20,7 @@ author_profile: true
 * Lingyu Du, Yupei Liu, **Jinyuan Jia**, and Guohao Lan. "[SecureGaze: Defending Gaze Estimation Against Backdoor Attacks
 ](https://dl.acm.org/doi/pdf/10.1145/3715014.3722071)". In *ACM Conference on Embedded Networked Sensor Systems (SenSys)*, 2025. [<span style="color:red">code</span>](https://github.com/LingyuDu/SecureGaze)
 
+* Jiate Li, Meng Pang, Yun Dong, **Jinyuan Jia**, Binghui Wang. "[Provably Robust Explainable Graph Neural Networks against Graph Perturbation Attacks](https://dl.acm.org/doi/pdf/10.1145/3715014.3722071)". In *International Conference on Learning Representations (ICLR)*, 2025. [<span style="color:red">code</span>](https://github.com/JetRichardLee/XGNNCert)
 
 ## 2024
 
