@@ -7,6 +7,8 @@ author_profile: true
 
 ## 2025
 
+* Yanting Wang, Wei Zou, Runpeng Geng, and **Jinyuan Jia**. "[TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202)". In *USENIX Security Symposium*, 2025. [<span style="color:red">code</span>](https://github.com/Wang-Yanting/TracLLM)
+
 * Yupei Liu, Yuqi Jia, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[Evaluating LLM-based Personal Information Extraction and Countermeasures](https://arxiv.org/abs/2408.07291)". In *USENIX Security Symposium*, 2025. [<span style="color:red">code</span>](https://doi.org/10.5281/zenodo.14737200)
 
 
