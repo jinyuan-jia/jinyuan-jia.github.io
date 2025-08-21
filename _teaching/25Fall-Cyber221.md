@@ -20,7 +20,7 @@ This course focuses onan overview of information security. Students will learn t
 
 ## Logistics
 
-- Instructor: **Jinyuan Jia, jinyuan@psu.edu**
+- Instructor: **Jinyuan Jia, jinyuan@psu.edu, Westgate E325,  814-865-7369**
 - Teaching Assistant: **Matthew Joseph Gergus (mjg6926@psu.edu)**, and **Wei Zou (wxz5259@psu.edu)**  
 - <span style="color:blue">Time: Tuesday/Thursday 04:35 PM - 05:50 PM</span>
 - <span style="color:blue">Location: Chambers Bldg 108</span>
