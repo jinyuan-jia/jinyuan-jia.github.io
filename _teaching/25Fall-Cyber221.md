@@ -22,7 +22,7 @@ The goal of this course is to provide an overview of information security. The t
 - Instructor: **Jinyuan Jia, jinyuan@psu.edu**
 - Teaching Assistant: **Matthew Joseph Gergus (mjg6926@psu.edu)**, and **Wei Zou (wxz5259@psu.edu)**  
 - <span style="color:blue">Time: Tuesday/Thursday 04:35 PM - 05:50 PM</span>
-- <span style="color:blue">Location: Boucke Bldg 214</span>
+- <span style="color:blue">Location: Chambers Bldg 108</span>
 - Office Hours:
      - **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
      - **Matthew Joseph Gergus:  TBD on Monday and Wednesday; TBD on Sunday, Zoom link: https://psu.zoom.us/j/2370082275**
@@ -43,36 +43,36 @@ The goal of this course is to provide an overview of information security. The t
 
 | \# | Date | Topics | Due Dates | Notes |
 | - | ---- | ------ | ------- | -------- |
-| 1  | 01/14/2025 | Course Introduction          |                          |
-| 1  | 01/16/2025 | Overview of Information Security   |                          |
-| 2| 01/21/2025 | Intro to Lab Environments           |                    |
-| 2| 01/23/2025 | Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN               |
-| 3  | 01/28/2025 | Software Security            |        |
-| 3  | 01/30/2025 | Malware                |      Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP       |
-| 4  | 02/04/2025 | Web Security             |                          |
-| 4  | 02/06/2025 | Network Security               | Lab 3 WEB SITE RECONNAISSANCE          |
-| 5  | 02/11/2025 | Exam 1 Review               |                          |
-| 5  | 02/13/2025 | Exam 1 (in-class)                |                          |
-| 6 | 02/18/2025 | Cryptography Basics 1           |                          |
-| 6 | 02/20/2025 | Cryptography Basics 2       |       Lab 4 Automating Security Analysis with SPARTA       |
-| 7 | 02/25/2025 | Symmetric Cryptography 1       |                        |
-| 7 | 02/27/2025 | Symmetric Cryptography 2     |      Lab 5 VPN Server Config with Open VPN 75% is FULL Credit                      |
-| 8 | 03/04/2025 | Pub Key Cryptography 1      |                          |
-| 8 | 03/06/2025 | Pub Key Cryptography 2       |      Final Project Checkpoint    |
-| 9 | 03/18/2025 | Pub Key Infra 1       |                          |
-| 9 | 03/20/2025 | Pub Key Infra 2              |  Lab 6 Firewall Configuration with pfSense |
-| 10 | 03/25/2025 | Hash & Exam 2 Review              |                          |
-| 10 | 03/27/2025 | Exam 2 (in-class)        |     |
-| 11 | 04/01/2025 | Access Control 1            |                          |
-| 11 | 04/03/2025 | Access Control 2             |         Lab 7 Using Active Directory to Manage Domain User Accounts                  |
-| 12 | 04/08/2025 | Machine Learning and Security 1           |                          |
-| 12 | 04/10/2025 | Machine Learning and Security 2             |         Lab 8 Intro to File Systems Forensics                 |
-| 13 | 04/15/2025 | Large Language Model Security 1             |        |
-| 13 | 04/17/2025 | Large Language Model Security 2       |        |
-| 14 | 04/22/2025 | Data Privacy 1      |                          |
-| 14 | 04/24/2025 | Data Privacy 2               |                          |
-| 15 | 04/29/2025 | Final Project Presentation 1                |                          |
-| 15 | 05/01/2025 | Final Project Presentation 2 |       Final Project Report Due 11:59 pm (EST)                    |
+| 1  | 08/26/2025 | Course Introduction          |                          |
+| 1  | 08/28/2025 | Overview of Information Security   |                          |
+| 2| 09/02/2025 | Intro to Lab Environments           |                    |
+| 2| 09/04/2025 | Security Principles          |           Lab 1: GETTING STARTED WITH CYRIN               |
+| 3  | 09/09/2025 | Software Security            |        |
+| 3  | 09/11/2025 | Malware                |      Lab 2 WEB APPLICATION SECURITY ANALYSIS USING OWASP-ZAP       |
+| 4  | 09/16/2025 | Web Security             |                          |
+| 4  | 09/18/2025 | Network Security               | Lab 3 WEB SITE RECONNAISSANCE          |
+| 5  | 09/23/2025 | Exam 1 Review               |                          |
+| 5  | 09/25/2025 | Exam 1 (in-class)                |                          |
+| 6 | 09/30/2025 | Cryptography Basics 1           |                          |
+| 6 | 10/02/2025 | Cryptography Basics 2       |       Lab 4 Automating Security Analysis with SPARTA       |
+| 7 | 10/07/2025 | Symmetric Cryptography 1       |                        |
+| 7 | 10/09/2025 | Symmetric Cryptography 2     |      Lab 5 VPN Server Config with Open VPN 75% is FULL Credit                      |
+| 8 | 10/14/2025 | Pub Key Cryptography 1      |                          |
+| 8 | 10/16/2025 | Pub Key Cryptography 2       |      Final Project Checkpoint    |
+| 9 | 10/21/2025 | Pub Key Infra 1       |                          |
+| 9 | 10/23/2025 | Pub Key Infra 2              |  Lab 6 Firewall Configuration with pfSense |
+| 10 | 10/28/2025 | Hash & Exam 2 Review              |                          |
+| 10 | 10/30/2025 | Exam 2 (in-class)        |     |
+| 11 | 11/04/2025 | Access Control 1            |                          |
+| 11 | 11/06/2025 | Access Control 2             |         Lab 7 Using Active Directory to Manage Domain User Accounts                  |
+| 12 | 11/11/2025 | Machine Learning and Security 1           |                          |
+| 12 | 11/13/2025 | Machine Learning and Security 2             |         Lab 8 Intro to File Systems Forensics                 |
+| 13 | 11/18/2025 | Large Language Model Security 1             |        |
+| 13 | 11/20/2025 | Large Language Model Security 2       |        |
+| 14 | 12/02/2025 | Data Privacy 1      |                          |
+| 14 | 12/04/2025 | Data Privacy 2               |                          |
+| 15 | 12/09/2025 | Final Project Presentation 1                |                          |
+| 15 | 12/11/2025 | Final Project Presentation 2 |       Final Project Report Due 11:59 pm (EST)                    |
 
 
 ## Final Project (Group)
