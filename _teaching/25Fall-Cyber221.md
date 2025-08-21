@@ -106,15 +106,24 @@ The goal of this course is to provide an overview of information security. The t
 - Please email the instructor regarding extensions for special cases.
 
 ## ACADEMIC INTEGRITY STATEMENT
+
+Read First:  [Notice to Students from the Dean of the College of IST](https://docs.google.com/document/d/e/2PACX-1vQRi8hZob2xrDhgXnpB0yX9UuUTHsekaL-2hQopT1Gz5Lrs-9W0sZxPtOhIj-tMQt1K6cKJf7qH-qqx/pub)
+
 Academic integrity is the pursuit of scholarly activity in an open, honest and responsible manner. Academic integrity is a basic guiding principle for all academic activity at The Pennsylvania State University, and all members of the University community are expected to act in accordance with this principle. Consistent with this expectation, the University’s Code of Conduct states that all students should act with personal integrity, respect other students’ dignity, rights and property, and help create and maintain an environment in which all can succeed through the fruits of their efforts.
 
 Academic integrity includes a commitment by all members of the University community not to engage in or tolerate acts of falsification, misrepresentation or deception. Such acts of dishonesty violate the fundamental ethical principles of the University community and compromise the worth of work completed by others.
 
-AI (e.g., ChatGPT)  generated project reports are disallowed and will be treated as Academic Integrity Violations.
+**The use of Artificial Intelligence tools, such a ChatGPT is a violation UNLESS such use has been expressly permitted by the instructor AND the assignment calls for its use.**
 
 For more information, please review these policies and procedures:
 
+[Penn State's policy on Academic Integrity](https://www.google.com/url?q=https://aappm.psu.edu/&sa=D&source=editors&ust=1755807114231428&usg=AOvVaw131PKqWSnTDmTzHrXgbQfl)
+
 [<span style="color:blue">College of IST Academic Integrity Resources</span>](https://ist.psu.edu/current/undergraduate/advising/integrity)
+
+[Penn State Academic Integrity Videos](https://www.google.com/url?q=https://undergrad.psu.edu/academic-integrity-videos&sa=D&source=editors&ust=1755807114233087&usg=AOvVaw1dQladEhkAQD76KoF8qiUB)
+
+[IST Honor Code](https://www.google.com/url?q=https://ist.psu.edu/about/ist-honor-code&sa=D&source=editors&ust=1755807114233296&usg=AOvVaw2PmWlTFSscDAUfA2jF21yd) - College of IST Honor Code developed by IST students
 
 While utilizing additional sources outside of this class is encouraged for gaining a better understanding of course concepts, seeking explicit answers for graded assignments from outside sources (e.g. Course Hero, Chegg, tutoring services like tutor.com, etc.) is considered CHEATING and will not be tolerated. Sanctions range from failure of the assignment or course to dismissal from the University. Additionally, sharing course content without permission is a violation of copyright and may result in university sanctions and/or legal ramifications. Contact your instructor with questions related to this topic. 
 
