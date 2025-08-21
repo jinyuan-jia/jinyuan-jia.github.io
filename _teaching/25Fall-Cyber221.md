@@ -10,7 +10,8 @@ location: "State College, US"
 
 
 ## Overview
-The goal of this course is to provide an overview of information security. The topics include software/web security, cryptography, network security, public key infra, access control, and machine learning security/privacy. 
+This course focuses onan overview of information security. Students will learn the principles of information security, security architectures and models, aspects and methods of information security such as physical security control, operations security, access control, hacks/attacks/defense, systems and programs security, cryptography, network and web security, worms and viruses, and other Internet secure applications. Students will also learn how to plan and manage security, security policies, business continuity plans, disaster recovery plans, and social and legal issues of information security. A major component of the course will be several hands-on exercises and a final team-based project. This course will incorporate collaborative and action-learning experiences wherever appropriate. Emphases will be placed on developing and practicing writing and speaking skills through application of the concepts, theories and technologies that define the course.
+
 
 ## Prerequisites
 - SRA 111
