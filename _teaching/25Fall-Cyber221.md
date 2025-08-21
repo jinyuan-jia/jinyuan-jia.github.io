@@ -120,7 +120,7 @@ For more information, please review these policies and procedures:
 
 [Penn State's policy on Academic Integrity](https://www.google.com/url?q=https://aappm.psu.edu/&sa=D&source=editors&ust=1755807114231428&usg=AOvVaw131PKqWSnTDmTzHrXgbQfl)
 
-[College of IST Academic Integrity Resources](https://ist.psu.edu/current/undergraduate/advising/integrity)
+[College of IST Academic Integrity Resources](https://ist.psu.edu/current-students/current-undergraduate-students/academic-advising/academic-integrity)
 
 [Penn State Academic Integrity Videos](https://www.google.com/url?q=https://undergrad.psu.edu/academic-integrity-videos&sa=D&source=editors&ust=1755807114233087&usg=AOvVaw1dQladEhkAQD76KoF8qiUB)
 
@@ -130,9 +130,9 @@ While utilizing additional sources outside of this class is encouraged for gaini
 
 
 ## DISABILITY ACCOMMODATION STATEMENT
-Penn State welcomes students with disabilities into the University’s educational programs. Every Penn State campus has an office for students with disabilities. Student Disability Resources (SDR) website provides contact information for every Penn State campus
-(http://equity.psu.edu/sdr/disability-coordinator). For further information, please visit Student Disability Resources website
-(http://equity.psu.edu/sdr/).
+Penn State welcomes students with disabilities into the University’s educational programs. Every Penn State campus has an office for students with disabilities. The Student Disability Resources (SDR) website provides contact information for every Penn State campus
+(https://equity.psu.edu/offices/student-disability-resources/campus-offices). For further information, please visit the Student Disability Resources website
+[https://equity.psu.edu/offices/student-disability-resources/](https://equity.psu.edu/offices/student-disability-resources/).
 
 In order to receive consideration for reasonable accommodations, you must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: See documentation guidelines
 (http://equity.psu.edu/sdr/guidelines). If the documentation supports your request for reasonable accommodations, your campus disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early as possible. You must follow this process for every semester that you request accommodations.
