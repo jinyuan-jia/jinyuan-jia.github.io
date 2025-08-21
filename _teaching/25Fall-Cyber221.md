@@ -119,7 +119,7 @@ For more information, please review these policies and procedures:
 
 [Penn State's policy on Academic Integrity](https://www.google.com/url?q=https://aappm.psu.edu/&sa=D&source=editors&ust=1755807114231428&usg=AOvVaw131PKqWSnTDmTzHrXgbQfl)
 
-[<span style="color:blue">College of IST Academic Integrity Resources</span>](https://ist.psu.edu/current/undergraduate/advising/integrity)
+[College of IST Academic Integrity Resources](https://ist.psu.edu/current/undergraduate/advising/integrity)
 
 [Penn State Academic Integrity Videos](https://www.google.com/url?q=https://undergrad.psu.edu/academic-integrity-videos&sa=D&source=editors&ust=1755807114233087&usg=AOvVaw1dQladEhkAQD76KoF8qiUB)
 
