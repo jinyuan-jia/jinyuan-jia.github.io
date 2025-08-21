@@ -144,7 +144,7 @@ Counseling and Psychological Services at University Park  (CAPS)
 (http://studentaffairs.psu.edu/counseling/): 814-863-0395
 
 Counseling and Psychological Services at Commonwealth Campuses
-(https://senate.psu.edu/faculty/counseling-services-at-commonwealth-campuses/)
+(https://studentaffairs.psu.edu/counseling/caps-campuses)
 
 Penn State Crisis Line (24 hours/7 days/week): 877-229-6400
 Crisis Text Line (24 hours/7 days/week): Text LIONS to 741741
