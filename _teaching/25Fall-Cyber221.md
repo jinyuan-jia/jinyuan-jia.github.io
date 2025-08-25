@@ -87,7 +87,7 @@ This course focuses onan overview of information security. Students will learn t
 - Labs   30%
 - Exams                30%
 - Group Project        20% 
-- Quiz                 20% 
+- Attendance and In-Class Quizzes                 20% 
   
 ## Final Grade Cutoff
 - A [93%, 100%]
