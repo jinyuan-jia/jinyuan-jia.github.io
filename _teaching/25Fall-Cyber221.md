@@ -105,7 +105,7 @@ This course focuses on an overview of information security. Students will learn 
 - All assignments are due on the due date at 11:59 pm (EST).
 - Students can submit late with the penalty of 10% deduction for every 24 hours late (up to 4 days).
 - After 4 days, no more late submission is allowed.
-- Please email the instructor regarding extensions for special cases.
+- Requests for exceptions, with justifications, should be sent in advance to the instructor (on Canvas).
 
 ## ACADEMIC INTEGRITY STATEMENT
 
