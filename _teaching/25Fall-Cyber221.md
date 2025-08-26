@@ -73,7 +73,8 @@ This course focuses on an overview of information security. Students will learn 
 | 14 | 12/02/2025 | Data Privacy 1      |                          |
 | 14 | 12/04/2025 | Data Privacy 2               |                          |
 | 15 | 12/09/2025 | Final Project Presentation 1                |                          |
-| 15 | 12/11/2025 | Final Project Presentation 2 |       Final Project Report Due 11:59 pm (EST)                    |
+| 15 | 12/11/2025 | Final Project Presentation 2 |                       |
+| 16 | 12/15/2025 |  NA |       Final Project Report Due 11:59 pm (EST)                    |
 
 
 ## Final Project (Group)
