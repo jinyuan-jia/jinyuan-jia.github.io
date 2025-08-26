@@ -141,15 +141,15 @@ In order to receive consideration for reasonable accommodations, you must contac
 Many students at Penn State face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional wellbeing. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation.
 
 Counseling and Psychological Services at University Park  (CAPS)
-(http://studentaffairs.psu.edu/counseling/): 814-863-0395
+([http://studentaffairs.psu.edu/counseling/](http://studentaffairs.psu.edu/counseling/)): 814-863-0395
 
 Counseling and Psychological Services at Commonwealth Campuses
-(https://studentaffairs.psu.edu/counseling/caps-campuses)
+([https://studentaffairs.psu.edu/counseling/caps-campuses](https://studentaffairs.psu.edu/counseling/caps-campuses))
 
 Penn State Crisis Line (24 hours/7 days/week): 877-229-6400
 Crisis Text Line (24 hours/7 days/week): Text LIONS to 741741
 
 ## EDUCATIONAL EQUITY/REPORT BIAS STATEMENTS
 Consistent with University Policy AD29, students who believe they have experienced or observed a hate crime, an act of intolerance, discrimination, or harassment that occurs at Penn State are urged to report these incidents as outlined on the University’s Report Bias webpage
-(http://equity.psu.edu/reportbias/)
+([http://equity.psu.edu/reportbias/](http://equity.psu.edu/reportbias/))
 
