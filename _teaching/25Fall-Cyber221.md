@@ -26,8 +26,8 @@ This course focuses on an overview of information security. Students will learn 
 - <span style="color:blue">Class Location: Chambers Bldg 108</span>
 - Office Hours:
      - **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
-     - **Matthew Joseph Gergus:  TBD on Monday and Wednesday; TBD on Sunday, Zoom link: [https://psu.zoom.us/j/2370082275](https://psu.zoom.us/j/2370082275)**
-     - **Wei Zou: TBD on Monday, Wednesday, and Sunday, Zoom link: XXXX**  
+     - **Matthew Joseph Gergus:  12pm to 2pm on Tuesday and Thursday; 12pm to 4pm on Sunday, Zoom link: [https://psu.zoom.us/j/2370082275](https://psu.zoom.us/j/2370082275)**
+     - **Wei Zou: 2pm to 5pm on Monday and Wednesday, Zoom link: [https://psu.zoom.us/j/99937810882?pwd=JdsChHZOu1RkbHObqixwapwyfdXmzi.1](https://psu.zoom.us/j/99937810882?pwd=JdsChHZOu1RkbHObqixwapwyfdXmzi.1)**  
 
 ## Course Materials
 - Recommended (not required):
