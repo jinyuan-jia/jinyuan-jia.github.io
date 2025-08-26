@@ -22,8 +22,8 @@ This course focuses on an overview of information security. Students will learn 
 
 - Instructor: **Jinyuan Jia, jinyuan@psu.edu, Westgate E325,  814-865-7369**
 - Teaching Assistant: **Matthew Joseph Gergus (mjg6926@psu.edu)**, and **Wei Zou (wxz5259@psu.edu)**  
-- <span style="color:blue">Time: Tuesday/Thursday 04:35 PM - 05:50 PM</span>
-- <span style="color:blue">Location: Chambers Bldg 108</span>
+- <span style="color:blue">Class Time: Tuesday/Thursday 04:35 PM - 05:50 PM</span>
+- <span style="color:blue">Class Location: Chambers Bldg 108</span>
 - Office Hours:
      - **Jinyuan Jia: Wednesday  1:00 pm - 2:00 pm, E325 Westgate**
      - **Matthew Joseph Gergus:  TBD on Monday and Wednesday; TBD on Sunday, Zoom link: [https://psu.zoom.us/j/2370082275](https://psu.zoom.us/j/2370082275)**
