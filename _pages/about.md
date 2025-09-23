@@ -50,6 +50,7 @@ Classification](https://arxiv.org/pdf/2311.11225.pdf)". In *Network and Distribu
 
 ## Current Ph.D. Students
 
+- Chenlong Yin (08/2025 - Now)
 - Runpeng Geng (08/2024 - Now)
 - Yanting Wang (08/2023 - Now)
 - Wei Zou (08/2023 - Now)
