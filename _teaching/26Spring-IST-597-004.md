@@ -25,7 +25,7 @@ The first part of the course introduces the foundations of LLMs, including machi
 
 ## Tentative Schedule (Subject to Change)
 
-Please check the following tentative schedule for the course.
+Please check the following tentative schedule for the course. [The link to the course slides](https://drive.google.com/drive/folders/1zAEVMRv7ZTWEtCogwNhN2GZ5VYFr28Mn?usp=sharing)
 
 | Date | Topics | Readings / Notes |
 | ---- | ------ | ---------------- |
