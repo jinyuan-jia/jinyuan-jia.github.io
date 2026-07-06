@@ -2,7 +2,7 @@
 title: "IST 597-004: LLM Foundation and Trustworthiness"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/26Spring-IST597-004
+permalink: /teaching/26Spring-IST-597-004
 venue: "Penn State, College of IST"
 date: 2026-01-12
 location: "State College, US"
