@@ -5,11 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2026 
-
-Yes. I treated “published” as **peer-reviewed/accepted 2026 papers** rather than arXiv-only preprints. Google Scholar itself blocks automated access, so I cross-checked the entries against ACL, IEEE S&P, ICLR, COLM, DBLP, and your students’ publication pages. ([ACL Anthology][1])
-
-### 2026
+## 2026
 
 * Runpeng Geng, Yanting Wang, Chenlong Yin, Minhao Cheng, Ying Chen, and **Jinyuan Jia**. "[PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/abs/2511.10720)". In *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2026. [<span style="color:red">code</span>](https://github.com/sleeepeer/PISanitizer)
 
