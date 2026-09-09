@@ -15,7 +15,7 @@ author_profile: true
 
 * Yanting Wang, Runpeng Geng, Ying Chen, and **Jinyuan Jia**. "[AttnTrace: Contextual Attribution of Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2508.03793)". In *IEEE Symposium on Security and Privacy*, 2026. [<span style="color:red">code</span>](https://github.com/Wang-Yanting/AttnTrace)
 
-* Yuqi Jia, Yupei Liu, Zedian Shao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[PromptLocate: Localizing Prompt Injection Attacks](https://arxiv.org/abs/2510.12252)". In *IEEE Symposium on Security and Privacy*, 2026.
+* Yuqi Jia, Yupei Liu, Zedian Shao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[PromptLocate: Localizing Prompt Injection Attacks](https://arxiv.org/abs/2510.12252)". In *IEEE Symposium on Security and Privacy*, 2026. [<span style="color:red">code</span>](https://github.com/liu00222/Open-Prompt-Injection)
 
 * Yanting Wang and **Jinyuan Jia**. "[EnsembleSHAP: Faithful and Certifiably Robust Attribution for Random Subspace Method](https://arxiv.org/abs/2603.30034)". In *International Conference on Learning Representations (ICLR)*, 2026. [<span style="color:red">code</span>](https://github.com/Wang-Yanting/EnsembleSHAP)
 
