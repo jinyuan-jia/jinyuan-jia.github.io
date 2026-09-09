@@ -5,6 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2026 
+
+Yes. I treated “published” as **peer-reviewed/accepted 2026 papers** rather than arXiv-only preprints. Google Scholar itself blocks automated access, so I cross-checked the entries against ACL, IEEE S&P, ICLR, COLM, DBLP, and your students’ publication pages. ([ACL Anthology][1])
+
+### 2026
+
+* Runpeng Geng, Yanting Wang, Chenlong Yin, Minhao Cheng, Ying Chen, and **Jinyuan Jia**. "[PISanitizer: Preventing Prompt Injection to Long-Context LLMs via Prompt Sanitization](https://arxiv.org/abs/2511.10720)". In *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 2026. [<span style="color:red">code</span>](https://github.com/sleeepeer/PISanitizer)
+
+* Chenlong Yin, Runpeng Geng, Yanting Wang, and **Jinyuan Jia**. "[PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses](https://arxiv.org/abs/2603.13026)". In *Conference on Language Modeling (COLM)*, 2026. [<span style="color:red">code</span>](https://github.com/albert-y1n/PISmith)
+
+* Runpeng Geng, Chenlong Yin, Yanting Wang, Ying Chen, and **Jinyuan Jia**. "[PIArena: A Platform for Prompt Injection Evaluation](https://arxiv.org/abs/2604.08499)". In *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2026. [<span style="color:red">code</span>](https://github.com/sleeepeer/PIArena)
+
+* Yanting Wang, Runpeng Geng, Ying Chen, and **Jinyuan Jia**. "[AttnTrace: Contextual Attribution of Prompt Injection and Knowledge Corruption](https://arxiv.org/abs/2508.03793)". In *IEEE Symposium on Security and Privacy*, 2026. [<span style="color:red">code</span>](https://github.com/Wang-Yanting/AttnTrace)
+
+* Yuqi Jia, Yupei Liu, Zedian Shao, **Jinyuan Jia**, and Neil Zhenqiang Gong. "[PromptLocate: Localizing Prompt Injection Attacks](https://arxiv.org/abs/2510.12252)". In *IEEE Symposium on Security and Privacy*, 2026.
+
+* Yanting Wang and **Jinyuan Jia**. "[EnsembleSHAP: Faithful and Certifiably Robust Attribution for Random Subspace Method](https://arxiv.org/abs/2603.30034)". In *International Conference on Learning Representations (ICLR)*, 2026. [<span style="color:red">code</span>](https://github.com/Wang-Yanting/EnsembleSHAP)
+
+* Yuqi Jia, Zedian Shao, Yupei Liu, **Jinyuan Jia**, Dawn Song, and Neil Zhenqiang Gong. "[A Critical Evaluation of Defenses against Prompt Injection Attacks](https://arxiv.org/abs/2505.18333)". In *ACM Symposium on Access Control Models and Technologies (SACMAT)*, 2026. [<span style="color:red">code</span>](https://github.com/PIEval123/PIEval)
+
+
 ## 2025
 
 * Yanting Wang, Wei Zou, Runpeng Geng, and **Jinyuan Jia**. "[TracLLM: A Generic Framework for Attributing Long Context LLMs](https://arxiv.org/abs/2506.04202)". In *USENIX Security Symposium*, 2025. [<span style="color:red">code</span>](https://github.com/Wang-Yanting/TracLLM)
